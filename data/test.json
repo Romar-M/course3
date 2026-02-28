@@ -1,0 +1,9 @@
+[
+  {
+    "callsign": "TEST001",
+    "origin_country": "Germany",
+    "velocity": 300.0,
+    "altitude": 11000.0,
+    "on_ground": false
+  }
+]

@@ -1,0 +1,7662 @@
+[
+  {
+    "callsign": "TVF13QL",
+    "origin_country": "France",
+    "velocity": 214.28,
+    "altitude": 9235.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF44FX",
+    "origin_country": "France",
+    "velocity": 213.18,
+    "altitude": 9989.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "CGVJE",
+    "origin_country": "Canada",
+    "velocity": 21.25,
+    "altitude": 190.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "FHARZ",
+    "origin_country": "France",
+    "velocity": 45.05,
+    "altitude": 1935.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR253",
+    "origin_country": "Switzerland",
+    "velocity": 204.79,
+    "altitude": 11597.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "LPE2460",
+    "origin_country": "Chile",
+    "velocity": 231.12,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL652",
+    "origin_country": "United States",
+    "velocity": 1.29,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "AXB2932",
+    "origin_country": "India",
+    "velocity": 188.2,
+    "altitude": 7239.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR438A",
+    "origin_country": "Switzerland",
+    "velocity": 216.96,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1220",
+    "origin_country": "India",
+    "velocity": 240.81,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL253",
+    "origin_country": "United States",
+    "velocity": 227.26,
+    "altitude": 8801.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "ERU957",
+    "origin_country": "United States",
+    "velocity": 51.56,
+    "altitude": 807.72,
+    "on_ground": false
+  },
+  {
+    "callsign": "N452SM",
+    "origin_country": "United States",
+    "velocity": 36.42,
+    "altitude": 457.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N63186",
+    "origin_country": "United States",
+    "velocity": 41.01,
+    "altitude": 777.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1727",
+    "origin_country": "United States",
+    "velocity": 165.88,
+    "altitude": 6096.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF50SV",
+    "origin_country": "France",
+    "velocity": 67.91,
+    "altitude": 472.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2084",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "AXB2024",
+    "origin_country": "India",
+    "velocity": 193.97,
+    "altitude": 6492.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "N387AF",
+    "origin_country": "United States",
+    "velocity": 52.03,
+    "altitude": 2263.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2710",
+    "origin_country": "India",
+    "velocity": 199.22,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2099",
+    "origin_country": "United States",
+    "velocity": 207.47,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB235",
+    "origin_country": "India",
+    "velocity": 225.35,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU17PH",
+    "origin_country": "Austria",
+    "velocity": 199.81,
+    "altitude": 11597.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "PTN58D",
+    "origin_country": "Germany",
+    "velocity": 73.54,
+    "altitude": 769.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF61UE",
+    "origin_country": "France",
+    "velocity": 77.48,
+    "altitude": 1005.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF70CT",
+    "origin_country": "France",
+    "velocity": 230.89,
+    "altitude": 11871.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC1823",
+    "origin_country": "India",
+    "velocity": 187.57,
+    "altitude": 5913.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF47ZR",
+    "origin_country": "France",
+    "velocity": 218.18,
+    "altitude": 11902.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF67QR",
+    "origin_country": "France",
+    "velocity": 240.45,
+    "altitude": 11879.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF60KN",
+    "origin_country": "France",
+    "velocity": 225.54,
+    "altitude": 10683.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL2306",
+    "origin_country": "United States",
+    "velocity": 296.13,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXK567",
+    "origin_country": "United States",
+    "velocity": 31.9,
+    "altitude": 1798.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR96V",
+    "origin_country": "Switzerland",
+    "velocity": 191.15,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ411",
+    "origin_country": "United States",
+    "velocity": 82.65,
+    "altitude": 853.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "N74DH",
+    "origin_country": "United States",
+    "velocity": 6.94,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "UAL241",
+    "origin_country": "United States",
+    "velocity": 206.08,
+    "altitude": 7185.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1632",
+    "origin_country": "United States",
+    "velocity": 138.44,
+    "altitude": 1981.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N25948",
+    "origin_country": "United States",
+    "velocity": 51.96,
+    "altitude": 731.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR316T",
+    "origin_country": "Switzerland",
+    "velocity": 217.03,
+    "altitude": 12092.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR4WP",
+    "origin_country": "Switzerland",
+    "velocity": 202.61,
+    "altitude": 7543.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "LOG34JD",
+    "origin_country": "United Kingdom",
+    "velocity": 140.44,
+    "altitude": 4572.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL861",
+    "origin_country": "United States",
+    "velocity": 3.09,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N/A",
+    "origin_country": "United States",
+    "velocity": 41.21,
+    "altitude": 2628.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL687",
+    "origin_country": "United States",
+    "velocity": 201.17,
+    "altitude": 9342.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL3263",
+    "origin_country": "United States",
+    "velocity": 141.35,
+    "altitude": 3246.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "N432P",
+    "origin_country": "United States",
+    "velocity": 92.12,
+    "altitude": 1173.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP67U",
+    "origin_country": "Portugal",
+    "velocity": 223.8,
+    "altitude": 11894.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP1932",
+    "origin_country": "Portugal",
+    "velocity": 150.64,
+    "altitude": 3360.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "MXY516",
+    "origin_country": "United States",
+    "velocity": 228.02,
+    "altitude": 9745.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP835",
+    "origin_country": "Portugal",
+    "velocity": 213.48,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP1558",
+    "origin_country": "Portugal",
+    "velocity": 246.63,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASA473",
+    "origin_country": "United States",
+    "velocity": 104.43,
+    "altitude": 899.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "GJS4165",
+    "origin_country": "United States",
+    "velocity": 213.24,
+    "altitude": 4671.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "G72297",
+    "origin_country": "United States",
+    "velocity": 43.33,
+    "altitude": 960.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "LFA683",
+    "origin_country": "United States",
+    "velocity": 62.76,
+    "altitude": 1630.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "N365AG",
+    "origin_country": "United States",
+    "velocity": 260.96,
+    "altitude": 13716.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO734F",
+    "origin_country": "India",
+    "velocity": 176.05,
+    "altitude": 8343.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO6001",
+    "origin_country": "India",
+    "velocity": 69.85,
+    "altitude": 190.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL927",
+    "origin_country": "United States",
+    "velocity": 236.45,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "SCX745",
+    "origin_country": "United States",
+    "velocity": 255.57,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXK312",
+    "origin_country": "United States",
+    "velocity": 60.21,
+    "altitude": 762.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO5215",
+    "origin_country": "India",
+    "velocity": 49.9,
+    "altitude": 6644.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2325",
+    "origin_country": "United States",
+    "velocity": 140.96,
+    "altitude": 1554.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "C6598",
+    "origin_country": "United States",
+    "velocity": 34.99,
+    "altitude": 38.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB2680",
+    "origin_country": "India",
+    "velocity": 142.97,
+    "altitude": 2918.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP1242",
+    "origin_country": "Portugal",
+    "velocity": 1.54,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N53HK",
+    "origin_country": "United States",
+    "velocity": 173.45,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO071",
+    "origin_country": "India",
+    "velocity": 207.85,
+    "altitude": 10957.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "N5247Q",
+    "origin_country": "United States",
+    "velocity": 39.43,
+    "altitude": 624.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "WUP452",
+    "origin_country": "United States",
+    "velocity": 72.42,
+    "altitude": 716.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA371",
+    "origin_country": "United States",
+    "velocity": 95.75,
+    "altitude": 1059.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "N474X",
+    "origin_country": "United States",
+    "velocity": 95.41,
+    "altitude": 1120.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR115Y",
+    "origin_country": "Switzerland",
+    "velocity": 10.29,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "VXP562",
+    "origin_country": "United States",
+    "velocity": 181.58,
+    "altitude": 3909.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR2GX",
+    "origin_country": "Switzerland",
+    "velocity": 212.54,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL693",
+    "origin_country": "United States",
+    "velocity": 163.72,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA134",
+    "origin_country": "United States",
+    "velocity": 138.53,
+    "altitude": 3771.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1505",
+    "origin_country": "United States",
+    "velocity": 278.04,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "MXY803",
+    "origin_country": "United States",
+    "velocity": 222.7,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "GTA1",
+    "origin_country": "France",
+    "velocity": 7.46,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "AXB865",
+    "origin_country": "India",
+    "velocity": 198.78,
+    "altitude": 5661.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL565",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "UAL455",
+    "origin_country": "United States",
+    "velocity": 6.69,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "TAP555",
+    "origin_country": "Portugal",
+    "velocity": 217.41,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU45FH",
+    "origin_country": "Austria",
+    "velocity": 224.6,
+    "altitude": 6598.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2377",
+    "origin_country": "India",
+    "velocity": 191.43,
+    "altitude": 7269.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1182",
+    "origin_country": "United States",
+    "velocity": 8.75,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "ENY3576",
+    "origin_country": "United States",
+    "velocity": 215.74,
+    "altitude": 8054.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1577",
+    "origin_country": "India",
+    "velocity": 232.79,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N905VR",
+    "origin_country": "United States",
+    "velocity": 224.76,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP437",
+    "origin_country": "Portugal",
+    "velocity": 220.1,
+    "altitude": 11894.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "SCA35",
+    "origin_country": "United States",
+    "velocity": 53.03,
+    "altitude": 1325.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF30KT",
+    "origin_country": "France",
+    "velocity": 160.72,
+    "altitude": 4892.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF11DL",
+    "origin_country": "France",
+    "velocity": 214.59,
+    "altitude": 11871.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU13XQ",
+    "origin_country": "Austria",
+    "velocity": 161.54,
+    "altitude": 2087.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "UPS267",
+    "origin_country": "United States",
+    "velocity": 218.82,
+    "altitude": 8267.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF7908",
+    "origin_country": "France",
+    "velocity": 227.96,
+    "altitude": 10119.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2874",
+    "origin_country": "United States",
+    "velocity": 197.36,
+    "altitude": 7178.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "NYX208",
+    "origin_country": "Estonia",
+    "velocity": 130.43,
+    "altitude": 4587.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "N813VS",
+    "origin_country": "United States",
+    "velocity": 40.65,
+    "altitude": 1264.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "AKJ1560",
+    "origin_country": "India",
+    "velocity": 234.26,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2980",
+    "origin_country": "United States",
+    "velocity": 134.15,
+    "altitude": 1935.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP057",
+    "origin_country": "Portugal",
+    "velocity": 228.89,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF23FB",
+    "origin_country": "France",
+    "velocity": 209.55,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N905WA",
+    "origin_country": "United States",
+    "velocity": 45.3,
+    "altitude": 518.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7635W",
+    "origin_country": "United States",
+    "velocity": 43.05,
+    "altitude": 586.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP011",
+    "origin_country": "Portugal",
+    "velocity": 188.63,
+    "altitude": 8084.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "CFG433",
+    "origin_country": "Estonia",
+    "velocity": 184.52,
+    "altitude": 10988.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB321",
+    "origin_country": "India",
+    "velocity": 235.89,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU35PG",
+    "origin_country": "Austria",
+    "velocity": 224.58,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1071",
+    "origin_country": "United States",
+    "velocity": 257.34,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "HAWK299",
+    "origin_country": "United States",
+    "velocity": 147.5,
+    "altitude": 960.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "MBU6JB",
+    "origin_country": "Estonia",
+    "velocity": 153.96,
+    "altitude": 3177.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "C6606",
+    "origin_country": "United States",
+    "velocity": 41.47,
+    "altitude": 205.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "MBU2AT",
+    "origin_country": "Estonia",
+    "velocity": 165.52,
+    "altitude": 3756.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7993W",
+    "origin_country": "United States",
+    "velocity": 43.66,
+    "altitude": 830.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP077",
+    "origin_country": "Portugal",
+    "velocity": 257.0,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "BLZR294",
+    "origin_country": "United States",
+    "velocity": 135.93,
+    "altitude": 1706.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ15Y",
+    "origin_country": "Sweden",
+    "velocity": 166.62,
+    "altitude": 4975.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1532",
+    "origin_country": "India",
+    "velocity": 8.23,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N959CC",
+    "origin_country": "United States",
+    "velocity": 204.93,
+    "altitude": 10287.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "LPE2458",
+    "origin_country": "Chile",
+    "velocity": 238.8,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "PGT7CM",
+    "origin_country": "Turkey",
+    "velocity": 266.22,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N527H",
+    "origin_country": "United States",
+    "velocity": 212.81,
+    "altitude": 4960.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N411DB",
+    "origin_country": "United States",
+    "velocity": 184.97,
+    "altitude": 7010.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N833DS",
+    "origin_country": "United States",
+    "velocity": 38.39,
+    "altitude": 1066.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "PGT1YH",
+    "origin_country": "Turkey",
+    "velocity": 255.5,
+    "altitude": 8176.26,
+    "on_ground": false
+  },
+  {
+    "callsign": "AZU4073",
+    "origin_country": "Brazil",
+    "velocity": 230.91,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1180",
+    "origin_country": "India",
+    "velocity": 4.63,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "AAL726",
+    "origin_country": "United States",
+    "velocity": 215.14,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2436",
+    "origin_country": "United States",
+    "velocity": 195.58,
+    "altitude": 7711.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1135",
+    "origin_country": "India",
+    "velocity": 71.51,
+    "altitude": 1264.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP029",
+    "origin_country": "Portugal",
+    "velocity": 129.85,
+    "altitude": 3710.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2482",
+    "origin_country": "India",
+    "velocity": 237.65,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "ENY3801",
+    "origin_country": "United States",
+    "velocity": 225.99,
+    "altitude": 6400.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N6JY",
+    "origin_country": "United States",
+    "velocity": 51.8,
+    "altitude": 891.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA3001",
+    "origin_country": "United States",
+    "velocity": 223.77,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "MBU6CQ",
+    "origin_country": "Estonia",
+    "velocity": 226.01,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "KAP92",
+    "origin_country": "United States",
+    "velocity": 68.78,
+    "altitude": 2141.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "MBU2VF",
+    "origin_country": "Estonia",
+    "velocity": 220.2,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL15",
+    "origin_country": "United States",
+    "velocity": 239.3,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "PPLAZ",
+    "origin_country": "United States",
+    "velocity": 51.75,
+    "altitude": 541.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "MBU8DT",
+    "origin_country": "Estonia",
+    "velocity": 239.76,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "ERU833",
+    "origin_country": "United States",
+    "velocity": 34.1,
+    "altitude": 106.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1056",
+    "origin_country": "India",
+    "velocity": 258.3,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N595DC",
+    "origin_country": "United States",
+    "velocity": 207.97,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "01172188",
+    "origin_country": "United States",
+    "velocity": 39.74,
+    "altitude": 579.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "72190",
+    "origin_country": "United States",
+    "velocity": 55.58,
+    "altitude": 685.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB2069",
+    "origin_country": "India",
+    "velocity": 154.86,
+    "altitude": 3116.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH99Y",
+    "origin_country": "Germany",
+    "velocity": 225.42,
+    "altitude": 8237.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "OYTWM",
+    "origin_country": "Denmark",
+    "velocity": 101.48,
+    "altitude": 906.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "N746E",
+    "origin_country": "United States",
+    "velocity": 261.64,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "PGT505G",
+    "origin_country": "Turkey",
+    "velocity": 261.37,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "ANE62NC",
+    "origin_country": "Spain",
+    "velocity": 104.54,
+    "altitude": 6088.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "ANE37CL",
+    "origin_country": "Spain",
+    "velocity": 99.1,
+    "altitude": 1965.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "GAQV",
+    "origin_country": "United States",
+    "velocity": 55.05,
+    "altitude": 579.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL3198",
+    "origin_country": "United States",
+    "velocity": 5.92,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N464DA",
+    "origin_country": "United States",
+    "velocity": 42.63,
+    "altitude": 426.72,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT3M",
+    "origin_country": "Hungary",
+    "velocity": 228.59,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "DHK371",
+    "origin_country": "United Kingdom",
+    "velocity": 268.76,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL874",
+    "origin_country": "United States",
+    "velocity": 199.33,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFT2249",
+    "origin_country": "United States",
+    "velocity": 200.06,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2015",
+    "origin_country": "India",
+    "velocity": 233.27,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AZU8751",
+    "origin_country": "Brazil",
+    "velocity": 232.82,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ9YS",
+    "origin_country": "Hungary",
+    "velocity": 198.5,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "DHK705",
+    "origin_country": "United Kingdom",
+    "velocity": 254.34,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "BLZR270",
+    "origin_country": "United States",
+    "velocity": 147.97,
+    "altitude": 3009.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ65DH",
+    "origin_country": "Hungary",
+    "velocity": 201.32,
+    "altitude": 8305.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N235EE",
+    "origin_country": "United States",
+    "velocity": 219.47,
+    "altitude": 9334.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "EZY18AH",
+    "origin_country": "United Kingdom",
+    "velocity": 224.48,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC1847",
+    "origin_country": "India",
+    "velocity": 197.07,
+    "altitude": 10248.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4503",
+    "origin_country": "United States",
+    "velocity": 4.37,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EJA949",
+    "origin_country": "United States",
+    "velocity": 195.25,
+    "altitude": 8694.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "AUA297W",
+    "origin_country": "Austria",
+    "velocity": 185.67,
+    "altitude": 6705.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "TFF909",
+    "origin_country": "United States",
+    "velocity": 277.48,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1051",
+    "origin_country": "United States",
+    "velocity": 65.85,
+    "altitude": 228.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "VTNSG",
+    "origin_country": "India",
+    "velocity": 131.91,
+    "altitude": 2735.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW3868",
+    "origin_country": "United States",
+    "velocity": 137.2,
+    "altitude": 1379.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL893",
+    "origin_country": "United States",
+    "velocity": 248.99,
+    "altitude": 8839.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB283",
+    "origin_country": "India",
+    "velocity": 231.11,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N756PA",
+    "origin_country": "United States",
+    "velocity": 51.45,
+    "altitude": 1280.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N281MG",
+    "origin_country": "United States",
+    "velocity": 56.58,
+    "altitude": 678.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2013",
+    "origin_country": "United States",
+    "velocity": 200.71,
+    "altitude": 9601.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "KOW957",
+    "origin_country": "United States",
+    "velocity": 218.74,
+    "altitude": 12824.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "N3138W",
+    "origin_country": "United States",
+    "velocity": 73.37,
+    "altitude": 3604.26,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA3450",
+    "origin_country": "United States",
+    "velocity": 205.72,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO6505",
+    "origin_country": "India",
+    "velocity": 87.97,
+    "altitude": 1729.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "HOOK55",
+    "origin_country": "United States",
+    "velocity": 156.84,
+    "altitude": 3977.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "N680CW",
+    "origin_country": "United States",
+    "velocity": 149.55,
+    "altitude": 2125.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2158",
+    "origin_country": "United States",
+    "velocity": 178.53,
+    "altitude": 5859.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "N746CL",
+    "origin_country": "United States",
+    "velocity": 67.86,
+    "altitude": 1028.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB6601",
+    "origin_country": "India",
+    "velocity": 110.4,
+    "altitude": 624.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "DSU59",
+    "origin_country": "United States",
+    "velocity": 2.31,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DAL1759",
+    "origin_country": "United States",
+    "velocity": 223.78,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N547DT",
+    "origin_country": "United States",
+    "velocity": 75.62,
+    "altitude": 518.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N849AA",
+    "origin_country": "United States",
+    "velocity": 0.06,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "UAL1134",
+    "origin_country": "United States",
+    "velocity": 226.6,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N1006V",
+    "origin_country": "United States",
+    "velocity": 49.01,
+    "altitude": 1318.26,
+    "on_ground": false
+  },
+  {
+    "callsign": "XAA5252",
+    "origin_country": "United States",
+    "velocity": 268.77,
+    "altitude": 8839.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AMX920",
+    "origin_country": "Mexico",
+    "velocity": 197.04,
+    "altitude": 7520.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "BHR92",
+    "origin_country": "United States",
+    "velocity": 127.74,
+    "altitude": 3688.08,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS1557",
+    "origin_country": "Sweden",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "SAS488",
+    "origin_country": "Sweden",
+    "velocity": 223.21,
+    "altitude": 9159.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS4581",
+    "origin_country": "Sweden",
+    "velocity": 54.58,
+    "altitude": 182.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS4095",
+    "origin_country": "Sweden",
+    "velocity": 65.93,
+    "altitude": 228.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASA502",
+    "origin_country": "United States",
+    "velocity": 285.15,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N116TL",
+    "origin_country": "United States",
+    "velocity": 60.56,
+    "altitude": 822.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB1603",
+    "origin_country": "India",
+    "velocity": 101.57,
+    "altitude": 1043.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "N555EP",
+    "origin_country": "United States",
+    "velocity": 147.82,
+    "altitude": 6705.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1340",
+    "origin_country": "United States",
+    "velocity": 201.51,
+    "altitude": 10340.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL2285",
+    "origin_country": "United States",
+    "velocity": 269.31,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "NOAA65",
+    "origin_country": "United States",
+    "velocity": 92.41,
+    "altitude": 2156.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "KN44",
+    "origin_country": "United States",
+    "velocity": 50.41,
+    "altitude": 114.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL2226",
+    "origin_country": "United States",
+    "velocity": 179.19,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR242",
+    "origin_country": "Switzerland",
+    "velocity": 193.35,
+    "altitude": 5935.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR146",
+    "origin_country": "Switzerland",
+    "velocity": 269.66,
+    "altitude": 8938.26,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR22D",
+    "origin_country": "Switzerland",
+    "velocity": 220.82,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "KEN5050",
+    "origin_country": "United States",
+    "velocity": 68.8,
+    "altitude": 518.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N82676",
+    "origin_country": "United States",
+    "velocity": 29.77,
+    "altitude": 1043.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL45",
+    "origin_country": "United States",
+    "velocity": 150.13,
+    "altitude": 3939.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "RYKER07",
+    "origin_country": "United States",
+    "velocity": 96.4,
+    "altitude": 647.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "N704WP",
+    "origin_country": "United States",
+    "velocity": 56.67,
+    "altitude": 457.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SHARK64",
+    "origin_country": "United States",
+    "velocity": 143.58,
+    "altitude": 7010.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR52",
+    "origin_country": "Switzerland",
+    "velocity": 236.94,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "VOE7349",
+    "origin_country": "Spain",
+    "velocity": 219.31,
+    "altitude": 8366.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU36XP",
+    "origin_country": "Austria",
+    "velocity": 186.35,
+    "altitude": 8229.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR18P",
+    "origin_country": "Switzerland",
+    "velocity": 236.08,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "VOE3PD",
+    "origin_country": "Spain",
+    "velocity": 141.1,
+    "altitude": 1706.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "N6CB",
+    "origin_country": "United States",
+    "velocity": 81.5,
+    "altitude": 822.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "VOE3EV",
+    "origin_country": "Spain",
+    "velocity": 132.13,
+    "altitude": 3048.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWR66C",
+    "origin_country": "Switzerland",
+    "velocity": 233.16,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "XAA9550",
+    "origin_country": "United States",
+    "velocity": 225.66,
+    "altitude": 9037.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH4EV",
+    "origin_country": "Germany",
+    "velocity": 214.92,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS78T",
+    "origin_country": "Sweden",
+    "velocity": 217.87,
+    "altitude": 10370.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS38H",
+    "origin_country": "Sweden",
+    "velocity": 268.06,
+    "altitude": 10675.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N121AP",
+    "origin_country": "United States",
+    "velocity": 200.74,
+    "altitude": 9776.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1214",
+    "origin_country": "United States",
+    "velocity": 10.8,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "VIV4340",
+    "origin_country": "Mexico",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "XBOUL",
+    "origin_country": "Mexico",
+    "velocity": 77.27,
+    "altitude": 3810.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROGUE31",
+    "origin_country": "United States",
+    "velocity": 163.47,
+    "altitude": 7315.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL273",
+    "origin_country": "United States",
+    "velocity": 218.02,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DRAGO741",
+    "origin_country": "France",
+    "velocity": 57.22,
+    "altitude": 1501.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "N246RE",
+    "origin_country": "United States",
+    "velocity": 86.95,
+    "altitude": 563.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU74FB",
+    "origin_country": "Austria",
+    "velocity": 215.72,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL450",
+    "origin_country": "United States",
+    "velocity": 209.14,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1276",
+    "origin_country": "United States",
+    "velocity": 2.06,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N111MP",
+    "origin_country": "United States",
+    "velocity": 87.3,
+    "altitude": 2423.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1030",
+    "origin_country": "United States",
+    "velocity": 97.23,
+    "altitude": 464.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG1RC",
+    "origin_country": "Germany",
+    "velocity": 5.66,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EWG86Y",
+    "origin_country": "Germany",
+    "velocity": 199.57,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SNIPR40",
+    "origin_country": "United States",
+    "velocity": 172.15,
+    "altitude": 2811.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG7FB",
+    "origin_country": "Germany",
+    "velocity": 225.29,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASI670",
+    "origin_country": "United States",
+    "velocity": 35.59,
+    "altitude": 411.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "PDT9979",
+    "origin_country": "United States",
+    "velocity": 185.09,
+    "altitude": 3337.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "VIV1022",
+    "origin_country": "Mexico",
+    "velocity": 272.55,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7YJ",
+    "origin_country": "United States",
+    "velocity": 52.27,
+    "altitude": 152.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG47W",
+    "origin_country": "Germany",
+    "velocity": 102.49,
+    "altitude": 1173.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "N9205M",
+    "origin_country": "United States",
+    "velocity": 61.99,
+    "altitude": 1737.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL3163",
+    "origin_country": "United States",
+    "velocity": 196.52,
+    "altitude": 6408.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2130J",
+    "origin_country": "United States",
+    "velocity": 46.96,
+    "altitude": 731.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2444",
+    "origin_country": "United States",
+    "velocity": 210.75,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "NOZ85W",
+    "origin_country": "Sweden",
+    "velocity": 256.15,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH03N",
+    "origin_country": "Germany",
+    "velocity": 75.41,
+    "altitude": 662.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "SNIPR11",
+    "origin_country": "United States",
+    "velocity": 272.1,
+    "altitude": 8199.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "BANDT62",
+    "origin_country": "United States",
+    "velocity": 232.65,
+    "altitude": 7498.08,
+    "on_ground": false
+  },
+  {
+    "callsign": "TFF938",
+    "origin_country": "United States",
+    "velocity": 173.14,
+    "altitude": 7315.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXK1039",
+    "origin_country": "United States",
+    "velocity": 61.95,
+    "altitude": 944.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG7YR",
+    "origin_country": "Germany",
+    "velocity": 184.23,
+    "altitude": 6682.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG17X",
+    "origin_country": "Germany",
+    "velocity": 8.23,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N818WF",
+    "origin_country": "United States",
+    "velocity": 55.51,
+    "altitude": 312.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "N1870G",
+    "origin_country": "United States",
+    "velocity": 198.9,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2247",
+    "origin_country": "United States",
+    "velocity": 9.26,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "ELJ402",
+    "origin_country": "Slovakia",
+    "velocity": 234.47,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH4CP",
+    "origin_country": "Germany",
+    "velocity": 229.39,
+    "altitude": 11407.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1U",
+    "origin_country": "Germany",
+    "velocity": 151.81,
+    "altitude": 2743.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG4AJ",
+    "origin_country": "Germany",
+    "velocity": 219.95,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1079",
+    "origin_country": "United States",
+    "velocity": 236.48,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "AEE6TH",
+    "origin_country": "Greece",
+    "velocity": 214.34,
+    "altitude": 10218.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG29N",
+    "origin_country": "Germany",
+    "velocity": 136.87,
+    "altitude": 1706.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH865",
+    "origin_country": "Germany",
+    "velocity": 233.15,
+    "altitude": 7833.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1817",
+    "origin_country": "United States",
+    "velocity": 4.12,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N380CA",
+    "origin_country": "United States",
+    "velocity": 63.97,
+    "altitude": 1676.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL2271",
+    "origin_country": "United States",
+    "velocity": 71.51,
+    "altitude": 487.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW5557",
+    "origin_country": "United States",
+    "velocity": 185.17,
+    "altitude": 5798.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "JAL726",
+    "origin_country": "Japan",
+    "velocity": 243.04,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N9205J",
+    "origin_country": "United States",
+    "velocity": 58.44,
+    "altitude": 1028.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG8L",
+    "origin_country": "Germany",
+    "velocity": 233.56,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "SNIPR04",
+    "origin_country": "United States",
+    "velocity": 189.97,
+    "altitude": 2994.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH96J",
+    "origin_country": "Germany",
+    "velocity": 213.23,
+    "altitude": 5913.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "N246PT",
+    "origin_country": "United States",
+    "velocity": 82.65,
+    "altitude": 2065.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG72E",
+    "origin_country": "Germany",
+    "velocity": 87.84,
+    "altitude": 723.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "BANDT41",
+    "origin_country": "United States",
+    "velocity": 200.61,
+    "altitude": 6682.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH2NW",
+    "origin_country": "Germany",
+    "velocity": 176.91,
+    "altitude": 4610.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1293",
+    "origin_country": "Germany",
+    "velocity": 203.68,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "CFROJ",
+    "origin_country": "Canada",
+    "velocity": 252.04,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA538",
+    "origin_country": "Canada",
+    "velocity": 276.22,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKYY5",
+    "origin_country": "United States",
+    "velocity": 52.97,
+    "altitude": 365.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU45FT",
+    "origin_country": "Austria",
+    "velocity": 162.36,
+    "altitude": 7505.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "N53KA",
+    "origin_country": "United States",
+    "velocity": 106.77,
+    "altitude": 5486.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1416",
+    "origin_country": "United States",
+    "velocity": 255.8,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N657SA",
+    "origin_country": "United States",
+    "velocity": 32.04,
+    "altitude": 53.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA271",
+    "origin_country": "Canada",
+    "velocity": 193.58,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "CGBLP",
+    "origin_country": "Canada",
+    "velocity": 54.64,
+    "altitude": 274.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2133J",
+    "origin_country": "United States",
+    "velocity": 66.97,
+    "altitude": 1043.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "AEE90C",
+    "origin_country": "Greece",
+    "velocity": 256.18,
+    "altitude": 10066.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7YA",
+    "origin_country": "United States",
+    "velocity": 135.49,
+    "altitude": 11643.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "N776JE",
+    "origin_country": "United States",
+    "velocity": 1.03,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "ICE212",
+    "origin_country": "Iceland",
+    "velocity": 242.65,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N360HS",
+    "origin_country": "United States",
+    "velocity": 105.76,
+    "altitude": 1280.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJM790",
+    "origin_country": "United States",
+    "velocity": 177.34,
+    "altitude": 13716.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA454",
+    "origin_country": "United States",
+    "velocity": 204.13,
+    "altitude": 11292.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "2COOK",
+    "origin_country": "United Kingdom",
+    "velocity": 167.37,
+    "altitude": 5753.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "N813SA",
+    "origin_country": "United States",
+    "velocity": 170.5,
+    "altitude": 7620.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N97154",
+    "origin_country": "United States",
+    "velocity": 34.61,
+    "altitude": 998.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "N531SJ",
+    "origin_country": "United States",
+    "velocity": 145.74,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA432",
+    "origin_country": "United States",
+    "velocity": 271.31,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N630FB",
+    "origin_country": "United States",
+    "velocity": 77.68,
+    "altitude": 3154.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA3356",
+    "origin_country": "United States",
+    "velocity": 223.82,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1215",
+    "origin_country": "United States",
+    "velocity": 229.84,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N617BG",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "GTI8871",
+    "origin_country": "United States",
+    "velocity": 153.62,
+    "altitude": 2575.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "N677AM",
+    "origin_country": "United States",
+    "velocity": 34.92,
+    "altitude": 601.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "BANDT88",
+    "origin_country": "United States",
+    "velocity": 208.89,
+    "altitude": 4602.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFT2297",
+    "origin_country": "United States",
+    "velocity": 220.79,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "SNIPR07",
+    "origin_country": "United States",
+    "velocity": 287.87,
+    "altitude": 8008.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N484LP",
+    "origin_country": "United States",
+    "velocity": 33.68,
+    "altitude": 2560.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "KPO999",
+    "origin_country": "United States",
+    "velocity": 178.17,
+    "altitude": 10317.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "GJS4438",
+    "origin_country": "United States",
+    "velocity": 192.52,
+    "altitude": 6880.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "AEE3LG",
+    "origin_country": "Greece",
+    "velocity": 234.59,
+    "altitude": 10675.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N241MP",
+    "origin_country": "United States",
+    "velocity": 65.86,
+    "altitude": 2819.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N4777D",
+    "origin_country": "United States",
+    "velocity": 58.76,
+    "altitude": 899.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "SNIPR00",
+    "origin_country": "United States",
+    "velocity": 196.36,
+    "altitude": 2941.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "ANZ2",
+    "origin_country": "New Zealand",
+    "velocity": 294.49,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "KAY57",
+    "origin_country": "Germany",
+    "velocity": 119.15,
+    "altitude": 1630.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU31NE",
+    "origin_country": "Austria",
+    "velocity": 239.57,
+    "altitude": 10347.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "N992FG",
+    "origin_country": "United States",
+    "velocity": 59.89,
+    "altitude": 1615.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "N207MH",
+    "origin_country": "United States",
+    "velocity": 23.96,
+    "altitude": 38.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "N116UV",
+    "origin_country": "United States",
+    "velocity": 38.39,
+    "altitude": 1424.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "JIA5568",
+    "origin_country": "United States",
+    "velocity": 238.04,
+    "altitude": 9441.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA759",
+    "origin_country": "United States",
+    "velocity": 153.86,
+    "altitude": 2415.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS4117",
+    "origin_country": "Sweden",
+    "velocity": 172.55,
+    "altitude": 5067.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "SCX575",
+    "origin_country": "United States",
+    "velocity": 246.93,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AUA317",
+    "origin_country": "Austria",
+    "velocity": 219.32,
+    "altitude": 10424.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW3658",
+    "origin_country": "United States",
+    "velocity": 205.82,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4594",
+    "origin_country": "United States",
+    "velocity": 218.65,
+    "altitude": 8229.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "LET5124",
+    "origin_country": "Mexico",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "HI1055",
+    "origin_country": "Dominican Republic",
+    "velocity": 117.3,
+    "altitude": 1219.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL281",
+    "origin_country": "United States",
+    "velocity": 235.89,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "JIA5368",
+    "origin_country": "United States",
+    "velocity": 208.92,
+    "altitude": 7932.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "MXA1922",
+    "origin_country": "Mexico",
+    "velocity": 261.03,
+    "altitude": 9669.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL2629",
+    "origin_country": "United States",
+    "velocity": 272.61,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "CNS227",
+    "origin_country": "United States",
+    "velocity": 136.74,
+    "altitude": 3368.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "COUGR21",
+    "origin_country": "United States",
+    "velocity": 242.42,
+    "altitude": 8389.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1181",
+    "origin_country": "United States",
+    "velocity": 252.42,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "QXE2448",
+    "origin_country": "United States",
+    "velocity": 208.35,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "MNTNA33",
+    "origin_country": "United States",
+    "velocity": 81.54,
+    "altitude": 1150.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "LRC660",
+    "origin_country": "United States",
+    "velocity": 224.75,
+    "altitude": 10652.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "N69F",
+    "origin_country": "United States",
+    "velocity": 70.22,
+    "altitude": 182.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "AUB149",
+    "origin_country": "United States",
+    "velocity": 54.5,
+    "altitude": 1242.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "TIV360",
+    "origin_country": "United States",
+    "velocity": 264.94,
+    "altitude": 13716.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO562P",
+    "origin_country": "India",
+    "velocity": 252.14,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N411BG",
+    "origin_country": "United States",
+    "velocity": 96.54,
+    "altitude": 883.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "N759UL",
+    "origin_country": "United States",
+    "velocity": 75.14,
+    "altitude": 1706.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROKT22",
+    "origin_country": "United States",
+    "velocity": 147.19,
+    "altitude": 4861.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2808",
+    "origin_country": "United States",
+    "velocity": 256.6,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N578LA",
+    "origin_country": "United States",
+    "velocity": 58.17,
+    "altitude": 982.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "FGLDC",
+    "origin_country": "France",
+    "velocity": 44.19,
+    "altitude": 792.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "N831MW",
+    "origin_country": "United States",
+    "velocity": 69.49,
+    "altitude": 449.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "N76016",
+    "origin_country": "United States",
+    "velocity": 55.23,
+    "altitude": 723.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "N831MT",
+    "origin_country": "United States",
+    "velocity": 60.29,
+    "altitude": 914.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA2360",
+    "origin_country": "Canada",
+    "velocity": 260.53,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2733",
+    "origin_country": "India",
+    "velocity": 216.79,
+    "altitude": 8214.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "OXF9832",
+    "origin_country": "United States",
+    "velocity": 69.35,
+    "altitude": 1325.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "THA670",
+    "origin_country": "Thailand",
+    "velocity": 199.15,
+    "altitude": 5394.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "FAH62",
+    "origin_country": "Italy",
+    "velocity": 61.34,
+    "altitude": 312.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFT689",
+    "origin_country": "United States",
+    "velocity": 206.48,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "PDT5842",
+    "origin_country": "United States",
+    "velocity": 249.91,
+    "altitude": 8298.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "VLG2YE",
+    "origin_country": "Spain",
+    "velocity": 233.95,
+    "altitude": 7490.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "FDX3",
+    "origin_country": "United States",
+    "velocity": 127.04,
+    "altitude": 1463.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2134M",
+    "origin_country": "United States",
+    "velocity": 45.51,
+    "altitude": 457.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N813BT",
+    "origin_country": "United States",
+    "velocity": 15.98,
+    "altitude": 297.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "N111TC",
+    "origin_country": "United States",
+    "velocity": 133.41,
+    "altitude": 3688.08,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1597",
+    "origin_country": "United States",
+    "velocity": 261.08,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "N367MW",
+    "origin_country": "United States",
+    "velocity": 41.56,
+    "altitude": 1303.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "BLZR267",
+    "origin_country": "United States",
+    "velocity": 74.32,
+    "altitude": 160.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROU1806",
+    "origin_country": "Canada",
+    "velocity": 246.98,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "KII332",
+    "origin_country": "United States",
+    "velocity": 247.39,
+    "altitude": 8770.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2533",
+    "origin_country": "United States",
+    "velocity": 202.38,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXK1061",
+    "origin_country": "United States",
+    "velocity": 71.34,
+    "altitude": 853.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO923",
+    "origin_country": "India",
+    "velocity": 2.31,
+    "altitude": 22.86,
+    "on_ground": true
+  },
+  {
+    "callsign": "ARG1325",
+    "origin_country": "Argentina",
+    "velocity": 240.08,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC1802",
+    "origin_country": "India",
+    "velocity": 219.27,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "OXF9864",
+    "origin_country": "United States",
+    "velocity": 68.65,
+    "altitude": 2270.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ558",
+    "origin_country": "United States",
+    "velocity": 150.35,
+    "altitude": 2103.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "N4323R",
+    "origin_country": "United States",
+    "velocity": 54.57,
+    "altitude": 2194.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "AUB150",
+    "origin_country": "United States",
+    "velocity": 53.98,
+    "altitude": 1280.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N527NP",
+    "origin_country": "United States",
+    "velocity": 137.87,
+    "altitude": 1965.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "N52438",
+    "origin_country": "United States",
+    "velocity": 34.5,
+    "altitude": 7.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ2877",
+    "origin_country": "Sweden",
+    "velocity": 259.28,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "ENY3762",
+    "origin_country": "United States",
+    "velocity": 236.26,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR7408",
+    "origin_country": "France",
+    "velocity": 221.86,
+    "altitude": 9723.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ45F",
+    "origin_country": "Sweden",
+    "velocity": 211.23,
+    "altitude": 11475.72,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ5074",
+    "origin_country": "Sweden",
+    "velocity": 220.63,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ4KR",
+    "origin_country": "Sweden",
+    "velocity": 222.33,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N367MA",
+    "origin_country": "United States",
+    "velocity": 40.04,
+    "altitude": 853.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2007",
+    "origin_country": "United States",
+    "velocity": 265.02,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N786FA",
+    "origin_country": "United States",
+    "velocity": 49.11,
+    "altitude": 365.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "N803HP",
+    "origin_country": "United States",
+    "velocity": 56.13,
+    "altitude": 1066.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW3300",
+    "origin_country": "United States",
+    "velocity": 233.06,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS73B",
+    "origin_country": "Sweden",
+    "velocity": 190.13,
+    "altitude": 4671.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "N604MH",
+    "origin_country": "United States",
+    "velocity": 94.14,
+    "altitude": 815.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL413",
+    "origin_country": "United States",
+    "velocity": 221.45,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1367",
+    "origin_country": "United States",
+    "velocity": 208.93,
+    "altitude": 9936.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1059",
+    "origin_country": "United States",
+    "velocity": 145.74,
+    "altitude": 3169.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA2964",
+    "origin_country": "Canada",
+    "velocity": 227.44,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "RPA5778",
+    "origin_country": "United States",
+    "velocity": 8.75,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "NSZ3701",
+    "origin_country": "Sweden",
+    "velocity": 257.63,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1687",
+    "origin_country": "United States",
+    "velocity": 283.31,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1503",
+    "origin_country": "United States",
+    "velocity": 265.3,
+    "altitude": 10370.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1945",
+    "origin_country": "United States",
+    "velocity": 222.66,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBE06GH",
+    "origin_country": "Spain",
+    "velocity": 75.37,
+    "altitude": 541.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASA48",
+    "origin_country": "United States",
+    "velocity": 283.3,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ3998",
+    "origin_country": "Sweden",
+    "velocity": 271.13,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N650DM",
+    "origin_country": "United States",
+    "velocity": 107.8,
+    "altitude": 8542.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1278",
+    "origin_country": "United States",
+    "velocity": 253.22,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO7117",
+    "origin_country": "India",
+    "velocity": 148.54,
+    "altitude": 3962.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ2873",
+    "origin_country": "Sweden",
+    "velocity": 230.91,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBS15YT",
+    "origin_country": "Spain",
+    "velocity": 147.74,
+    "altitude": 3444.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "PDT6092",
+    "origin_country": "United States",
+    "velocity": 182.27,
+    "altitude": 3886.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N406WT",
+    "origin_country": "United States",
+    "velocity": 89.53,
+    "altitude": 2202.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO556",
+    "origin_country": "India",
+    "velocity": 157.66,
+    "altitude": 4754.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "KSU03",
+    "origin_country": "United States",
+    "velocity": 53.8,
+    "altitude": 746.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1938",
+    "origin_country": "United States",
+    "velocity": 250.36,
+    "altitude": 9738.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "JAVAN41",
+    "origin_country": "United States",
+    "velocity": 139.68,
+    "altitude": 4358.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "N12588",
+    "origin_country": "United States",
+    "velocity": 64.47,
+    "altitude": 3421.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "ATN3329",
+    "origin_country": "United States",
+    "velocity": 242.57,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N35712",
+    "origin_country": "United States",
+    "velocity": 37.42,
+    "altitude": 670.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "N9580J",
+    "origin_country": "United States",
+    "velocity": 60.71,
+    "altitude": 2621.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "RVP239",
+    "origin_country": "Austria",
+    "velocity": 54.08,
+    "altitude": 1356.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "N90508",
+    "origin_country": "United States",
+    "velocity": 53.04,
+    "altitude": 784.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC238",
+    "origin_country": "India",
+    "velocity": 5.66,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EWG1CL",
+    "origin_country": "Germany",
+    "velocity": 91.06,
+    "altitude": 632.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "N939CM",
+    "origin_country": "United States",
+    "velocity": 108.08,
+    "altitude": 4914.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4545",
+    "origin_country": "United States",
+    "velocity": 269.95,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "JTL939",
+    "origin_country": "United States",
+    "velocity": 146.25,
+    "altitude": 3307.08,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH44K",
+    "origin_country": "Germany",
+    "velocity": 234.18,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMU74",
+    "origin_country": "United States",
+    "velocity": 56.74,
+    "altitude": 1211.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "FGIDA",
+    "origin_country": "France",
+    "velocity": 51.41,
+    "altitude": 274.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1933",
+    "origin_country": "United States",
+    "velocity": 211.12,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU92FC",
+    "origin_country": "Austria",
+    "velocity": 251.24,
+    "altitude": 7277.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "N199BL",
+    "origin_country": "United States",
+    "velocity": 53.47,
+    "altitude": 1013.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO657C",
+    "origin_country": "India",
+    "velocity": 233.76,
+    "altitude": 10957.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBE04FE",
+    "origin_country": "Spain",
+    "velocity": 222.67,
+    "altitude": 6126.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "VJA362",
+    "origin_country": "United States",
+    "velocity": 191.97,
+    "altitude": 13716.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA831",
+    "origin_country": "United States",
+    "velocity": 121.8,
+    "altitude": 1661.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP53ED",
+    "origin_country": "Portugal",
+    "velocity": 223.49,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2708",
+    "origin_country": "India",
+    "velocity": 5.14,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "C2703",
+    "origin_country": "United States",
+    "velocity": 112.33,
+    "altitude": 2682.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "TCN780",
+    "origin_country": "United States",
+    "velocity": 268.98,
+    "altitude": 13723.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "CSC3837",
+    "origin_country": "China",
+    "velocity": 274.65,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL3268",
+    "origin_country": "United States",
+    "velocity": 257.4,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N805FA",
+    "origin_country": "United States",
+    "velocity": 53.18,
+    "altitude": 358.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO735Y",
+    "origin_country": "India",
+    "velocity": 240.3,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "PAL400",
+    "origin_country": "Philippines",
+    "velocity": 4.63,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N352KP",
+    "origin_country": "United States",
+    "velocity": 80.29,
+    "altitude": 1280.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "GPX600",
+    "origin_country": "Bulgaria",
+    "velocity": 188.29,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBS15XQ",
+    "origin_country": "Spain",
+    "velocity": 118.94,
+    "altitude": 1623.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "LSXX",
+    "origin_country": "United States",
+    "velocity": 48.87,
+    "altitude": 99.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "N900WT",
+    "origin_country": "United States",
+    "velocity": 237.88,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL628",
+    "origin_country": "United States",
+    "velocity": 253.69,
+    "altitude": 10660.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "HAMMR2",
+    "origin_country": "United States",
+    "velocity": 232.51,
+    "altitude": 114.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP209K",
+    "origin_country": "Portugal",
+    "velocity": 217.97,
+    "altitude": 8869.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ505",
+    "origin_country": "United States",
+    "velocity": 189.22,
+    "altitude": 3756.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "N277J",
+    "origin_country": "United States",
+    "velocity": 61.67,
+    "altitude": 1371.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROU1932",
+    "origin_country": "Canada",
+    "velocity": 253.68,
+    "altitude": 6758.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "ANA180",
+    "origin_country": "Japan",
+    "velocity": 260.14,
+    "altitude": 12489.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4961",
+    "origin_country": "United States",
+    "velocity": 182.95,
+    "altitude": 11338.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAY576",
+    "origin_country": "United States",
+    "velocity": 288.26,
+    "altitude": 10759.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "TRON21",
+    "origin_country": "United States",
+    "velocity": 263.98,
+    "altitude": 11529.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "ENY3517",
+    "origin_country": "United States",
+    "velocity": 71.51,
+    "altitude": 190.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "EDV5271",
+    "origin_country": "United States",
+    "velocity": 254.65,
+    "altitude": 9814.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ894",
+    "origin_country": "Hungary",
+    "velocity": 230.58,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ146",
+    "origin_country": "Hungary",
+    "velocity": 2.06,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "WZZ28LV",
+    "origin_country": "Hungary",
+    "velocity": 245.5,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SGO1",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "TZP21",
+    "origin_country": "Japan",
+    "velocity": 0.77,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N174ME",
+    "origin_country": "United States",
+    "velocity": 43.29,
+    "altitude": 213.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL3196",
+    "origin_country": "United States",
+    "velocity": 29.32,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N457SP",
+    "origin_country": "United States",
+    "velocity": 3.86,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "SNAK505",
+    "origin_country": "Canada",
+    "velocity": 134.13,
+    "altitude": 4632.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "N97674",
+    "origin_country": "United States",
+    "velocity": 46.33,
+    "altitude": 762.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBE06SC",
+    "origin_country": "Spain",
+    "velocity": 161.31,
+    "altitude": 3726.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFAB123",
+    "origin_country": "United States",
+    "velocity": 42.58,
+    "altitude": 213.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ4578",
+    "origin_country": "Hungary",
+    "velocity": 251.92,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N28VE",
+    "origin_country": "United States",
+    "velocity": 213.02,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N8510R",
+    "origin_country": "United States",
+    "velocity": 71.11,
+    "altitude": 1318.26,
+    "on_ground": false
+  },
+  {
+    "callsign": "N9510N",
+    "origin_country": "United States",
+    "velocity": 52.89,
+    "altitude": 1066.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "PAL659",
+    "origin_country": "Philippines",
+    "velocity": 238.28,
+    "altitude": 6758.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1304",
+    "origin_country": "Germany",
+    "velocity": 247.09,
+    "altitude": 11292.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2185",
+    "origin_country": "United States",
+    "velocity": 221.75,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH3KV",
+    "origin_country": "Germany",
+    "velocity": 200.99,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU39BT",
+    "origin_country": "Austria",
+    "velocity": 187.38,
+    "altitude": 5661.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "N805MX",
+    "origin_country": "United States",
+    "velocity": 71.11,
+    "altitude": 1935.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH9A",
+    "origin_country": "Germany",
+    "velocity": 173.46,
+    "altitude": 3794.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "LOG74H",
+    "origin_country": "United Kingdom",
+    "velocity": 124.63,
+    "altitude": 3048.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT626",
+    "origin_country": "Hungary",
+    "velocity": 212.65,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT765",
+    "origin_country": "Hungary",
+    "velocity": 181.75,
+    "altitude": 5052.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "N26AA",
+    "origin_country": "United States",
+    "velocity": 49.47,
+    "altitude": 480.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL3030",
+    "origin_country": "United States",
+    "velocity": 127.02,
+    "altitude": 1828.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1228",
+    "origin_country": "United States",
+    "velocity": 249.42,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N650JD",
+    "origin_country": "United States",
+    "velocity": 210.97,
+    "altitude": 4442.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFT2407",
+    "origin_country": "United States",
+    "velocity": 221.73,
+    "altitude": 9761.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBE08TP",
+    "origin_country": "Spain",
+    "velocity": 183.62,
+    "altitude": 7078.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH43U",
+    "origin_country": "Germany",
+    "velocity": 235.4,
+    "altitude": 10965.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "EVE7313",
+    "origin_country": "Spain",
+    "velocity": 210.28,
+    "altitude": 7025.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL928",
+    "origin_country": "United States",
+    "velocity": 230.91,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "JIA5489",
+    "origin_country": "United States",
+    "velocity": 186.92,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N604RB",
+    "origin_country": "United States",
+    "velocity": 168.94,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1MY",
+    "origin_country": "Germany",
+    "velocity": 115.44,
+    "altitude": 1531.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1301",
+    "origin_country": "Germany",
+    "velocity": 207.37,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "DUKE01",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "SKW6348",
+    "origin_country": "United States",
+    "velocity": 220.33,
+    "altitude": 7444.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT7191",
+    "origin_country": "Hungary",
+    "velocity": 126.93,
+    "altitude": 1066.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASI717",
+    "origin_country": "United States",
+    "velocity": 51.03,
+    "altitude": 944.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH33U",
+    "origin_country": "Germany",
+    "velocity": 233.52,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "VJA264",
+    "origin_country": "United States",
+    "velocity": 201.59,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "CTL343",
+    "origin_country": "United States",
+    "velocity": 84.69,
+    "altitude": 1341.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2663",
+    "origin_country": "United States",
+    "velocity": 141.49,
+    "altitude": 3794.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU47ML",
+    "origin_country": "Austria",
+    "velocity": 241.44,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL677",
+    "origin_country": "United States",
+    "velocity": 254.74,
+    "altitude": 10050.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "PAT458",
+    "origin_country": "United States",
+    "velocity": 92.52,
+    "altitude": 1043.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA2500",
+    "origin_country": "Canada",
+    "velocity": 262.19,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL405",
+    "origin_country": "United States",
+    "velocity": 271.19,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "WUK7600",
+    "origin_country": "United Kingdom",
+    "velocity": 213.79,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N312JE",
+    "origin_country": "United States",
+    "velocity": 270.47,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "PAT833",
+    "origin_country": "United States",
+    "velocity": 133.81,
+    "altitude": 7002.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "VAR853",
+    "origin_country": "United States",
+    "velocity": 43.22,
+    "altitude": 327.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2299",
+    "origin_country": "United States",
+    "velocity": 254.09,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "NKS461",
+    "origin_country": "United States",
+    "velocity": 204.76,
+    "altitude": 10370.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "N16412",
+    "origin_country": "United States",
+    "velocity": 62.01,
+    "altitude": 1676.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH2RL",
+    "origin_country": "Germany",
+    "velocity": 88.79,
+    "altitude": 541.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "N1678Z",
+    "origin_country": "United States",
+    "velocity": 75.91,
+    "altitude": 2194.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "WUK72",
+    "origin_country": "United Kingdom",
+    "velocity": 170.0,
+    "altitude": 6461.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "VIR5C",
+    "origin_country": "United Kingdom",
+    "velocity": 232.24,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "CCA937",
+    "origin_country": "China",
+    "velocity": 90.04,
+    "altitude": 1173.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ86CK",
+    "origin_country": "Hungary",
+    "velocity": 167.03,
+    "altitude": 4267.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "ERY44",
+    "origin_country": "United States",
+    "velocity": 198.14,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW5672",
+    "origin_country": "United States",
+    "velocity": 185.36,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH5LL",
+    "origin_country": "Germany",
+    "velocity": 122.14,
+    "altitude": 1965.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "NKS1150",
+    "origin_country": "United States",
+    "velocity": 219.46,
+    "altitude": 10675.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "MUSLE",
+    "origin_country": "United States",
+    "velocity": 32.92,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "TAM3491",
+    "origin_country": "Brazil",
+    "velocity": 218.09,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO5150",
+    "origin_country": "India",
+    "velocity": 100.39,
+    "altitude": 1569.72,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT824N",
+    "origin_country": "Hungary",
+    "velocity": 213.83,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "LET5685",
+    "origin_country": "Mexico",
+    "velocity": 220.08,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "EZY13TM",
+    "origin_country": "United Kingdom",
+    "velocity": 198.44,
+    "altitude": 7010.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N1544V",
+    "origin_country": "United States",
+    "velocity": 69.74,
+    "altitude": 1356.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "N1392Q",
+    "origin_country": "United States",
+    "velocity": 33.95,
+    "altitude": 1432.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA1039",
+    "origin_country": "Canada",
+    "velocity": 135.3,
+    "altitude": 3467.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "N738PH",
+    "origin_country": "United States",
+    "velocity": 44.02,
+    "altitude": 1028.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "N444DN",
+    "origin_country": "United States",
+    "velocity": 196.93,
+    "altitude": 9745.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA776",
+    "origin_country": "Canada",
+    "velocity": 241.44,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "CAY104",
+    "origin_country": "United Kingdom",
+    "velocity": 104.63,
+    "altitude": 822.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ6DY",
+    "origin_country": "Hungary",
+    "velocity": 235.63,
+    "altitude": 9090.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "N604RM",
+    "origin_country": "United States",
+    "velocity": 77.96,
+    "altitude": 594.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "MUSL",
+    "origin_country": "United States",
+    "velocity": 13.02,
+    "altitude": 91.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ85",
+    "origin_country": "Hungary",
+    "velocity": 0.06,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N492ST",
+    "origin_country": "United States",
+    "velocity": 147.09,
+    "altitude": 7924.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW5876",
+    "origin_country": "United States",
+    "velocity": 193.53,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N650JL",
+    "origin_country": "United States",
+    "velocity": 130.19,
+    "altitude": 1798.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBS18PG",
+    "origin_country": "Spain",
+    "velocity": 65.48,
+    "altitude": 449.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "T7ADX",
+    "origin_country": "San Marino",
+    "velocity": 272.15,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "IBE0681",
+    "origin_country": "Spain",
+    "velocity": 223.66,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "CSZ107",
+    "origin_country": "China",
+    "velocity": 188.3,
+    "altitude": 5669.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "EXS14UG",
+    "origin_country": "United Kingdom",
+    "velocity": 251.62,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "WAKE25",
+    "origin_country": "United States",
+    "velocity": 39.76,
+    "altitude": 0.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH713",
+    "origin_country": "Germany",
+    "velocity": 89.66,
+    "altitude": 1150.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "KSU38",
+    "origin_country": "United States",
+    "velocity": 33.44,
+    "altitude": 487.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA459",
+    "origin_country": "United States",
+    "velocity": 209.03,
+    "altitude": 7315.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH718",
+    "origin_country": "Germany",
+    "velocity": 274.26,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH764",
+    "origin_country": "Germany",
+    "velocity": 273.69,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU17NR",
+    "origin_country": "Austria",
+    "velocity": 206.14,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU13ZY",
+    "origin_country": "Austria",
+    "velocity": 238.62,
+    "altitude": 11597.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH458",
+    "origin_country": "Germany",
+    "velocity": 223.01,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH8P",
+    "origin_country": "Germany",
+    "velocity": 244.96,
+    "altitude": 11719.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2888",
+    "origin_country": "United States",
+    "velocity": 214.8,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH723",
+    "origin_country": "Germany",
+    "velocity": 221.25,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "NJM24",
+    "origin_country": "United States",
+    "velocity": 156.66,
+    "altitude": 7132.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "JBU1438",
+    "origin_country": "United States",
+    "velocity": 235.57,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "N545C",
+    "origin_country": "United States",
+    "velocity": 228.56,
+    "altitude": 11498.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLX78",
+    "origin_country": "United States",
+    "velocity": 251.72,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "VLG2WJ",
+    "origin_country": "Spain",
+    "velocity": 233.08,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "CGAWM",
+    "origin_country": "Canada",
+    "velocity": 44.14,
+    "altitude": 205.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "CSN3079",
+    "origin_country": "China",
+    "velocity": 208.03,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N754QS",
+    "origin_country": "United States",
+    "velocity": 289.94,
+    "altitude": 12184.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "N314GT",
+    "origin_country": "United States",
+    "velocity": 48.42,
+    "altitude": 594.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ576",
+    "origin_country": "Hungary",
+    "velocity": 216.04,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N4870L",
+    "origin_country": "United States",
+    "velocity": 45.48,
+    "altitude": 1127.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2104",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N500DT",
+    "origin_country": "United States",
+    "velocity": 61.01,
+    "altitude": 1828.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N578NG",
+    "origin_country": "United States",
+    "velocity": 85.99,
+    "altitude": 3535.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH460",
+    "origin_country": "Germany",
+    "velocity": 239.74,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AUA72",
+    "origin_country": "Austria",
+    "velocity": 198.43,
+    "altitude": 10599.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ573",
+    "origin_country": "United States",
+    "velocity": 59.04,
+    "altitude": 106.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH575",
+    "origin_country": "Germany",
+    "velocity": 239.07,
+    "altitude": 13114.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "N709WG",
+    "origin_country": "United States",
+    "velocity": 38.21,
+    "altitude": 411.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ2PZ",
+    "origin_country": "Hungary",
+    "velocity": 172.45,
+    "altitude": 5981.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "TWY604",
+    "origin_country": "United States",
+    "velocity": 180.27,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "JTL312",
+    "origin_country": "United States",
+    "velocity": 197.68,
+    "altitude": 12603.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKYDIVE8",
+    "origin_country": "United States",
+    "velocity": 73.2,
+    "altitude": 822.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJU12QU",
+    "origin_country": "Austria",
+    "velocity": 224.76,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N227NH",
+    "origin_country": "United States",
+    "velocity": 29.14,
+    "altitude": 1341.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "N43GJ",
+    "origin_country": "United States",
+    "velocity": 167.11,
+    "altitude": 4259.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP035",
+    "origin_country": "Portugal",
+    "velocity": 188.88,
+    "altitude": 7703.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "N56CL",
+    "origin_country": "United States",
+    "velocity": 193.51,
+    "altitude": 11193.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "HAWK238",
+    "origin_country": "United States",
+    "velocity": 113.69,
+    "altitude": 106.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ90",
+    "origin_country": "Hungary",
+    "velocity": 101.38,
+    "altitude": 1409.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "BLZR236",
+    "origin_country": "United States",
+    "velocity": 151.37,
+    "altitude": 960.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROKT21",
+    "origin_country": "United States",
+    "velocity": 150.47,
+    "altitude": 2819.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2112N",
+    "origin_country": "United States",
+    "velocity": 35.24,
+    "altitude": 548.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "DOG11",
+    "origin_country": "United States",
+    "velocity": 197.13,
+    "altitude": 7917.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA1",
+    "origin_country": "Canada",
+    "velocity": 1.29,
+    "altitude": 175.26,
+    "on_ground": true
+  },
+  {
+    "callsign": "WMT6608",
+    "origin_country": "Hungary",
+    "velocity": 213.05,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "N500EH",
+    "origin_country": "United States",
+    "velocity": 50.81,
+    "altitude": 251.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "GPJCN",
+    "origin_country": "United Kingdom",
+    "velocity": 62.09,
+    "altitude": 510.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "N811FS",
+    "origin_country": "United States",
+    "velocity": 171.9,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "PAL733",
+    "origin_country": "Philippines",
+    "velocity": 157.91,
+    "altitude": 3230.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "AEZ2024",
+    "origin_country": "Greece",
+    "velocity": 1.29,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EJA627",
+    "origin_country": "United States",
+    "velocity": 214.31,
+    "altitude": 7010.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH712",
+    "origin_country": "Germany",
+    "velocity": 271.91,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N63177",
+    "origin_country": "United States",
+    "velocity": 46.37,
+    "altitude": 2537.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL663",
+    "origin_country": "United States",
+    "velocity": 210.0,
+    "altitude": 9624.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH579",
+    "origin_country": "Germany",
+    "velocity": 236.47,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N702TR",
+    "origin_country": "United States",
+    "velocity": 247.65,
+    "altitude": 13716.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N657KT",
+    "origin_country": "United States",
+    "velocity": 143.32,
+    "altitude": 4404.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL9961",
+    "origin_country": "United States",
+    "velocity": 179.24,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL329",
+    "origin_country": "United States",
+    "velocity": 218.64,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "LFA537",
+    "origin_country": "United States",
+    "velocity": 55.15,
+    "altitude": 678.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "N780MJ",
+    "origin_country": "United States",
+    "velocity": 166.07,
+    "altitude": 12199.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N630CB",
+    "origin_country": "United States",
+    "velocity": 38.65,
+    "altitude": 883.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "ICE49R",
+    "origin_country": "Iceland",
+    "velocity": 41.27,
+    "altitude": 883.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROKT99",
+    "origin_country": "United States",
+    "velocity": 75.12,
+    "altitude": 3573.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA2506",
+    "origin_country": "Canada",
+    "velocity": 255.45,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N910DZ",
+    "origin_country": "United States",
+    "velocity": 119.36,
+    "altitude": 6705.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL483",
+    "origin_country": "United States",
+    "velocity": 228.97,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL933",
+    "origin_country": "United States",
+    "velocity": 250.87,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1936",
+    "origin_country": "United States",
+    "velocity": 199.36,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA2538",
+    "origin_country": "Canada",
+    "velocity": 254.66,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASI94",
+    "origin_country": "United States",
+    "velocity": 56.78,
+    "altitude": 647.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "N5548Q",
+    "origin_country": "United States",
+    "velocity": 40.9,
+    "altitude": 342.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "N811GR",
+    "origin_country": "United States",
+    "velocity": 202.71,
+    "altitude": 4937.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "ICL850",
+    "origin_country": "Austria",
+    "velocity": 216.39,
+    "altitude": 8153.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "QFA7",
+    "origin_country": "Australia",
+    "velocity": 265.83,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N500FJ",
+    "origin_country": "United States",
+    "velocity": 166.81,
+    "altitude": 3299.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW2PD",
+    "origin_country": "United Kingdom",
+    "velocity": 238.65,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL898",
+    "origin_country": "United States",
+    "velocity": 216.13,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "JIA5120",
+    "origin_country": "United States",
+    "velocity": 254.03,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP863Y",
+    "origin_country": "Portugal",
+    "velocity": 214.23,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "T7VRS",
+    "origin_country": "San Marino",
+    "velocity": 211.02,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP69UX",
+    "origin_country": "Portugal",
+    "velocity": 186.91,
+    "altitude": 3634.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAP37CN",
+    "origin_country": "Portugal",
+    "velocity": 144.49,
+    "altitude": 2179.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "UPS2633",
+    "origin_country": "United States",
+    "velocity": 14.92,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "GJS4568",
+    "origin_country": "United States",
+    "velocity": 181.81,
+    "altitude": 3345.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "ERU314",
+    "origin_country": "United States",
+    "velocity": 71.61,
+    "altitude": 967.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "NDU833",
+    "origin_country": "United States",
+    "velocity": 30.88,
+    "altitude": 1325.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "N314KD",
+    "origin_country": "United States",
+    "velocity": 77.72,
+    "altitude": 1805.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "N617MW",
+    "origin_country": "United States",
+    "velocity": 221.69,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "OYO13",
+    "origin_country": "France",
+    "velocity": 148.69,
+    "altitude": 3268.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "N8AL",
+    "origin_country": "United States",
+    "velocity": 244.74,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1049",
+    "origin_country": "United States",
+    "velocity": 163.95,
+    "altitude": 5791.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "XSR362",
+    "origin_country": "United States",
+    "velocity": 166.99,
+    "altitude": 13716.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N632LA",
+    "origin_country": "United States",
+    "velocity": 65.56,
+    "altitude": 1066.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4931",
+    "origin_country": "United States",
+    "velocity": 158.62,
+    "altitude": 2423.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ578",
+    "origin_country": "United States",
+    "velocity": 259.34,
+    "altitude": 13723.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXK387",
+    "origin_country": "United States",
+    "velocity": 44.42,
+    "altitude": 342.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL345",
+    "origin_country": "United States",
+    "velocity": 232.42,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "WUK7NH",
+    "origin_country": "United Kingdom",
+    "velocity": 142.55,
+    "altitude": 2987.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "GLF35",
+    "origin_country": "United States",
+    "velocity": 233.57,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N387MA",
+    "origin_country": "United States",
+    "velocity": 57.93,
+    "altitude": 1059.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "LJY40",
+    "origin_country": "United States",
+    "velocity": 178.81,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7962W",
+    "origin_country": "United States",
+    "velocity": 9.26,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N28NS",
+    "origin_country": "United States",
+    "velocity": 46.94,
+    "altitude": 1493.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1695",
+    "origin_country": "United States",
+    "velocity": 207.32,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N101CC",
+    "origin_country": "United States",
+    "velocity": 199.01,
+    "altitude": 9707.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "AEA51KH",
+    "origin_country": "Spain",
+    "velocity": 192.38,
+    "altitude": 6644.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH5NE",
+    "origin_country": "Germany",
+    "velocity": 11.32,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DLH4YJ",
+    "origin_country": "Germany",
+    "velocity": 218.68,
+    "altitude": 6697.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1RK",
+    "origin_country": "Germany",
+    "velocity": 5.4,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "ENY4264",
+    "origin_country": "United States",
+    "velocity": 231.22,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N637RP",
+    "origin_country": "United States",
+    "velocity": 183.9,
+    "altitude": 4800.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH5AR",
+    "origin_country": "Germany",
+    "velocity": 69.18,
+    "altitude": 121.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "LBT281",
+    "origin_country": "Tunisia",
+    "velocity": 237.19,
+    "altitude": 11117.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "VUAUQ",
+    "origin_country": "India",
+    "velocity": 147.57,
+    "altitude": 3642.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "N4068G",
+    "origin_country": "United States",
+    "velocity": 48.16,
+    "altitude": 91.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO5010",
+    "origin_country": "India",
+    "velocity": 212.13,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA785",
+    "origin_country": "Canada",
+    "velocity": 223.73,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "BDA201",
+    "origin_country": "India",
+    "velocity": 206.91,
+    "altitude": 10584.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH3WF",
+    "origin_country": "Germany",
+    "velocity": 200.68,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO262J",
+    "origin_country": "India",
+    "velocity": 0.06,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "IFG954",
+    "origin_country": "United States",
+    "velocity": 38.64,
+    "altitude": 1005.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH194",
+    "origin_country": "Germany",
+    "velocity": 149.66,
+    "altitude": 2301.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH2EM",
+    "origin_country": "Germany",
+    "velocity": 219.35,
+    "altitude": 8107.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA353",
+    "origin_country": "United States",
+    "velocity": 214.09,
+    "altitude": 4838.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH7YA",
+    "origin_country": "Germany",
+    "velocity": 239.17,
+    "altitude": 8191.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "N131T",
+    "origin_country": "United States",
+    "velocity": 87.26,
+    "altitude": 4671.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "EDV4920",
+    "origin_country": "United States",
+    "velocity": 213.42,
+    "altitude": 6248.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH2JF",
+    "origin_country": "Germany",
+    "velocity": 188.05,
+    "altitude": 7978.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "N360FA",
+    "origin_country": "United States",
+    "velocity": 58.44,
+    "altitude": 876.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFT3232",
+    "origin_country": "United States",
+    "velocity": 262.33,
+    "altitude": 9593.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW815C",
+    "origin_country": "United Kingdom",
+    "velocity": 224.88,
+    "altitude": 11597.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "N602MM",
+    "origin_country": "United States",
+    "velocity": 60.44,
+    "altitude": 434.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO5062",
+    "origin_country": "India",
+    "velocity": 238.25,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N40XS",
+    "origin_country": "United States",
+    "velocity": 70.25,
+    "altitude": 388.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2367",
+    "origin_country": "United States",
+    "velocity": 251.41,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW401",
+    "origin_country": "United Kingdom",
+    "velocity": 204.32,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL355",
+    "origin_country": "United States",
+    "velocity": 273.32,
+    "altitude": 8839.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "RPA5885",
+    "origin_country": "United States",
+    "velocity": 185.22,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N488BL",
+    "origin_country": "United States",
+    "velocity": 45.51,
+    "altitude": 312.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1486",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EXS73SU",
+    "origin_country": "United Kingdom",
+    "velocity": 188.46,
+    "altitude": 4998.72,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA3026",
+    "origin_country": "United States",
+    "velocity": 279.62,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO5201",
+    "origin_country": "India",
+    "velocity": 249.01,
+    "altitude": 9136.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA741",
+    "origin_country": "Canada",
+    "velocity": 188.24,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO2062",
+    "origin_country": "India",
+    "velocity": 69.48,
+    "altitude": 236.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ604",
+    "origin_country": "United States",
+    "velocity": 210.46,
+    "altitude": 11064.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7946U",
+    "origin_country": "United States",
+    "velocity": 55.7,
+    "altitude": 1219.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AUA21E",
+    "origin_country": "Austria",
+    "velocity": 4.89,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N602MT",
+    "origin_country": "United States",
+    "velocity": 43.95,
+    "altitude": 365.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "SVA061",
+    "origin_country": "Saudi Arabia",
+    "velocity": 237.57,
+    "altitude": 12184.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAY9212",
+    "origin_country": "United States",
+    "velocity": 197.52,
+    "altitude": 7345.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "N48BZ",
+    "origin_country": "United States",
+    "velocity": 61.66,
+    "altitude": 982.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA137",
+    "origin_country": "Canada",
+    "velocity": 212.31,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "EXS48CR",
+    "origin_country": "United Kingdom",
+    "velocity": 246.93,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA1181",
+    "origin_country": "Canada",
+    "velocity": 209.87,
+    "altitude": 11269.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2379",
+    "origin_country": "United States",
+    "velocity": 217.16,
+    "altitude": 9761.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "N525KA",
+    "origin_country": "United States",
+    "velocity": 207.53,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO705Y",
+    "origin_country": "India",
+    "velocity": 222.58,
+    "altitude": 10675.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "AMX046",
+    "origin_country": "Mexico",
+    "velocity": 257.27,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA385",
+    "origin_country": "United States",
+    "velocity": 158.05,
+    "altitude": 2689.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "N8813C",
+    "origin_country": "United States",
+    "velocity": 75.47,
+    "altitude": 975.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF70LU",
+    "origin_country": "France",
+    "velocity": 97.14,
+    "altitude": 967.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "BPX277",
+    "origin_country": "United States",
+    "velocity": 50.16,
+    "altitude": 678.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF8776",
+    "origin_country": "France",
+    "velocity": 244.65,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "HKS75",
+    "origin_country": "United Kingdom",
+    "velocity": 60.84,
+    "altitude": 449.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "N959MT",
+    "origin_country": "United States",
+    "velocity": 74.78,
+    "altitude": 1562.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "N8135G",
+    "origin_country": "United States",
+    "velocity": 64.92,
+    "altitude": 1036.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "MXY830",
+    "origin_country": "United States",
+    "velocity": 223.03,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL406",
+    "origin_country": "United States",
+    "velocity": 252.46,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "TVF77UZ",
+    "origin_country": "France",
+    "velocity": 212.85,
+    "altitude": 10622.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "RVP954",
+    "origin_country": "Portugal",
+    "velocity": 88.51,
+    "altitude": 1158.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "N72HA",
+    "origin_country": "United States",
+    "velocity": 210.03,
+    "altitude": 10134.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA3226",
+    "origin_country": "United States",
+    "velocity": 6.69,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "VOI181",
+    "origin_country": "Mexico",
+    "velocity": 240.14,
+    "altitude": 10660.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "CFG827",
+    "origin_country": "Germany",
+    "velocity": 208.21,
+    "altitude": 7513.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4938",
+    "origin_country": "United States",
+    "velocity": 185.94,
+    "altitude": 9890.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "CFG5PM",
+    "origin_country": "Germany",
+    "velocity": 129.07,
+    "altitude": 1889.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL123",
+    "origin_country": "United States",
+    "velocity": 120.55,
+    "altitude": 1394.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "CFG1DL",
+    "origin_country": "Germany",
+    "velocity": 231.83,
+    "altitude": 11597.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL2259",
+    "origin_country": "United States",
+    "velocity": 177.24,
+    "altitude": 3893.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "WUK7NC",
+    "origin_country": "United Kingdom",
+    "velocity": 185.5,
+    "altitude": 10957.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "HRCN21",
+    "origin_country": "United States",
+    "velocity": 71.36,
+    "altitude": 281.94,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH717",
+    "origin_country": "Germany",
+    "velocity": 7.2,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DLH462",
+    "origin_country": "Germany",
+    "velocity": 254.22,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "C6006",
+    "origin_country": "United States",
+    "velocity": 47.51,
+    "altitude": 129.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "ATL780",
+    "origin_country": "Switzerland",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "AFR56SQ",
+    "origin_country": "France",
+    "velocity": 216.18,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "STGRY11",
+    "origin_country": "United States",
+    "velocity": 121.0,
+    "altitude": 2049.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR48LF",
+    "origin_country": "France",
+    "velocity": 237.4,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA411",
+    "origin_country": "United States",
+    "velocity": 153.67,
+    "altitude": 3352.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH612",
+    "origin_country": "Germany",
+    "velocity": 246.84,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "VIV5026",
+    "origin_country": "Mexico",
+    "velocity": 245.63,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR62BG",
+    "origin_country": "France",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DLH8H",
+    "origin_country": "Germany",
+    "velocity": 77.69,
+    "altitude": 464.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "RFNK745",
+    "origin_country": "United States",
+    "velocity": 78.23,
+    "altitude": 685.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "FDX4393",
+    "origin_country": "Spain",
+    "velocity": 134.06,
+    "altitude": 2072.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "N977CA",
+    "origin_country": "United States",
+    "velocity": 167.33,
+    "altitude": 8839.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA936",
+    "origin_country": "United States",
+    "velocity": 203.94,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "GIA950",
+    "origin_country": "San Marino",
+    "velocity": 116.87,
+    "altitude": 1059.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL354",
+    "origin_country": "United States",
+    "velocity": 202.29,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2408",
+    "origin_country": "United States",
+    "velocity": 201.27,
+    "altitude": 10370.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA875",
+    "origin_country": "United States",
+    "velocity": 219.14,
+    "altitude": 7589.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB124W",
+    "origin_country": "India",
+    "velocity": 190.2,
+    "altitude": 7421.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "LHX6UY",
+    "origin_country": "Germany",
+    "velocity": 168.64,
+    "altitude": 3840.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "FDX21",
+    "origin_country": "United States",
+    "velocity": 223.71,
+    "altitude": 9098.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "KOW51",
+    "origin_country": "United States",
+    "velocity": 227.14,
+    "altitude": 13914.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL779",
+    "origin_country": "United States",
+    "velocity": 201.07,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "MNTNA01",
+    "origin_country": "United States",
+    "velocity": 56.6,
+    "altitude": 152.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N511RM",
+    "origin_country": "United States",
+    "velocity": 97.5,
+    "altitude": 2918.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "LHX01J",
+    "origin_country": "Germany",
+    "velocity": 232.29,
+    "altitude": 11590.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "EXS67T",
+    "origin_country": "United Kingdom",
+    "velocity": 234.33,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL8920",
+    "origin_country": "United States",
+    "velocity": 171.07,
+    "altitude": 4648.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR1549",
+    "origin_country": "France",
+    "velocity": 210.67,
+    "altitude": 11216.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR36SP",
+    "origin_country": "France",
+    "velocity": 0.06,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EXS34RY",
+    "origin_country": "United Kingdom",
+    "velocity": 192.78,
+    "altitude": 5181.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "JBU1802",
+    "origin_country": "United States",
+    "velocity": 222.06,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASA807",
+    "origin_country": "United States",
+    "velocity": 222.49,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "FDX5434",
+    "origin_country": "United States",
+    "velocity": 208.89,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AKJ1409",
+    "origin_country": "India",
+    "velocity": 5.92,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DNA407",
+    "origin_country": "Romania",
+    "velocity": 192.97,
+    "altitude": 9227.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR63TL",
+    "origin_country": "France",
+    "velocity": 216.69,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AKJ567",
+    "origin_country": "India",
+    "velocity": 216.55,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2858",
+    "origin_country": "United States",
+    "velocity": 220.22,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N53SG",
+    "origin_country": "United States",
+    "velocity": 92.36,
+    "altitude": 2042.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N558WW",
+    "origin_country": "United States",
+    "velocity": 201.39,
+    "altitude": 10492.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "WUK1717",
+    "origin_country": "United Kingdom",
+    "velocity": 232.16,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "JRE869",
+    "origin_country": "United States",
+    "velocity": 192.78,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "R20292",
+    "origin_country": "United States",
+    "velocity": 66.19,
+    "altitude": 723.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO1014",
+    "origin_country": "India",
+    "velocity": 90.34,
+    "altitude": 960.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXB773",
+    "origin_country": "India",
+    "velocity": 123.18,
+    "altitude": 1325.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "KAI82",
+    "origin_country": "United States",
+    "velocity": 87.34,
+    "altitude": 541.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL361",
+    "origin_country": "United States",
+    "velocity": 213.41,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA959",
+    "origin_country": "United States",
+    "velocity": 140.23,
+    "altitude": 2392.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "N867S",
+    "origin_country": "United States",
+    "velocity": 68.0,
+    "altitude": 2857.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "NIT237",
+    "origin_country": "United States",
+    "velocity": 55.06,
+    "altitude": 1104.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1590",
+    "origin_country": "United States",
+    "velocity": 212.89,
+    "altitude": 8831.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "OCN64",
+    "origin_country": "Germany",
+    "velocity": 225.65,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "LOG942F",
+    "origin_country": "United Kingdom",
+    "velocity": 0.32,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DAL1294",
+    "origin_country": "United States",
+    "velocity": 84.3,
+    "altitude": 358.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR89VR",
+    "origin_country": "France",
+    "velocity": 133.21,
+    "altitude": 1943.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1072",
+    "origin_country": "United States",
+    "velocity": 222.5,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "TEXN131",
+    "origin_country": "United States",
+    "velocity": 63.74,
+    "altitude": 2339.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "OCN135K",
+    "origin_country": "Germany",
+    "velocity": 208.21,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR1069",
+    "origin_country": "France",
+    "velocity": 226.97,
+    "altitude": 8839.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "KOW954",
+    "origin_country": "United States",
+    "velocity": 216.68,
+    "altitude": 14325.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR96WJ",
+    "origin_country": "France",
+    "velocity": 231.51,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH7K",
+    "origin_country": "Germany",
+    "velocity": 221.45,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N224DT",
+    "origin_country": "United States",
+    "velocity": 43.44,
+    "altitude": 121.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "ICE631",
+    "origin_country": "Iceland",
+    "velocity": 194.64,
+    "altitude": 7688.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO395",
+    "origin_country": "India",
+    "velocity": 28.81,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "AIC185",
+    "origin_country": "India",
+    "velocity": 279.82,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EXS66KE",
+    "origin_country": "United Kingdom",
+    "velocity": 223.75,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N329ME",
+    "origin_country": "United States",
+    "velocity": 51.76,
+    "altitude": 1485.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR31WZ",
+    "origin_country": "France",
+    "velocity": 207.82,
+    "altitude": 11231.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "N478DS",
+    "origin_country": "United States",
+    "velocity": 67.25,
+    "altitude": 525.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "AFR53EM",
+    "origin_country": "France",
+    "velocity": 233.86,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "LXJ525",
+    "origin_country": "United States",
+    "velocity": 182.11,
+    "altitude": 6187.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1746",
+    "origin_country": "United States",
+    "velocity": 255.22,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1211",
+    "origin_country": "United States",
+    "velocity": 237.72,
+    "altitude": 9509.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2667",
+    "origin_country": "United States",
+    "velocity": 191.18,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EWG5NC",
+    "origin_country": "Germany",
+    "velocity": 192.38,
+    "altitude": 7078.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "HYDRA17",
+    "origin_country": "United States",
+    "velocity": 92.88,
+    "altitude": 2194.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL813",
+    "origin_country": "United States",
+    "velocity": 197.68,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N287BG",
+    "origin_country": "United States",
+    "velocity": 41.43,
+    "altitude": 548.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "CAO3136",
+    "origin_country": "China",
+    "velocity": 260.4,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N800MP",
+    "origin_country": "United States",
+    "velocity": 42.7,
+    "altitude": 464.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXA8733",
+    "origin_country": "China",
+    "velocity": 184.69,
+    "altitude": 4221.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "N881QS",
+    "origin_country": "United States",
+    "velocity": 254.3,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N26100",
+    "origin_country": "United States",
+    "velocity": 50.17,
+    "altitude": 251.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "VLG1JK",
+    "origin_country": "Spain",
+    "velocity": 227.7,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N398AA",
+    "origin_country": "United States",
+    "velocity": 14.92,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "VLG5WQ",
+    "origin_country": "Spain",
+    "velocity": 230.67,
+    "altitude": 8420.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA887",
+    "origin_country": "Canada",
+    "velocity": 235.08,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2461U",
+    "origin_country": "United States",
+    "velocity": 32.96,
+    "altitude": 510.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "N849MH",
+    "origin_country": "United States",
+    "velocity": 63.35,
+    "altitude": 1005.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "N999PM",
+    "origin_country": "United States",
+    "velocity": 188.8,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2461P",
+    "origin_country": "United States",
+    "velocity": 53.47,
+    "altitude": 518.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "SIS522",
+    "origin_country": "United States",
+    "velocity": 149.07,
+    "altitude": 1501.14,
+    "on_ground": false
+  },
+  {
+    "callsign": "ERU319",
+    "origin_country": "United States",
+    "velocity": 53.83,
+    "altitude": 784.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA632",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 175.26,
+    "on_ground": true
+  },
+  {
+    "callsign": "DLH584",
+    "origin_country": "Germany",
+    "velocity": 247.15,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N188A",
+    "origin_country": "United States",
+    "velocity": 56.27,
+    "altitude": 777.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH64M",
+    "origin_country": "Germany",
+    "velocity": 238.1,
+    "altitude": 10980.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "FFT1055",
+    "origin_country": "United States",
+    "velocity": 111.38,
+    "altitude": 929.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA26",
+    "origin_country": "Canada",
+    "velocity": 278.69,
+    "altitude": 12184.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL12",
+    "origin_country": "United States",
+    "velocity": 257.86,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "CHETA73",
+    "origin_country": "Canada",
+    "velocity": 105.49,
+    "altitude": 533.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "VIV2263",
+    "origin_country": "Mexico",
+    "velocity": 231.45,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA467",
+    "origin_country": "United States",
+    "velocity": 210.06,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "CXK624",
+    "origin_country": "United States",
+    "velocity": 53.86,
+    "altitude": 975.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "VJA312",
+    "origin_country": "United States",
+    "velocity": 228.01,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N319EG",
+    "origin_country": "United States",
+    "velocity": 54.93,
+    "altitude": 1493.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "N542JJ",
+    "origin_country": "United States",
+    "velocity": 39.69,
+    "altitude": 1744.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH6254",
+    "origin_country": "Algeria",
+    "velocity": 143.81,
+    "altitude": 4572.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA547",
+    "origin_country": "United States",
+    "velocity": 255.48,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N24613",
+    "origin_country": "United States",
+    "velocity": 45.67,
+    "altitude": 1097.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2656",
+    "origin_country": "India",
+    "velocity": 0.64,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N2663X",
+    "origin_country": "United States",
+    "velocity": 48.72,
+    "altitude": 883.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "GOLD86",
+    "origin_country": "United States",
+    "velocity": 242.82,
+    "altitude": 8839.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "NHZ25",
+    "origin_country": "United Kingdom",
+    "velocity": 35.04,
+    "altitude": 167.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "TGBLZ",
+    "origin_country": "Guatemala",
+    "velocity": 82.36,
+    "altitude": 2773.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "LRT0725",
+    "origin_country": "United States",
+    "velocity": 220.18,
+    "altitude": 9898.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH687",
+    "origin_country": "Germany",
+    "velocity": 192.67,
+    "altitude": 10988.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH9CF",
+    "origin_country": "Germany",
+    "velocity": 236.35,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "NOZ1613",
+    "origin_country": "Sweden",
+    "velocity": 225.4,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "TALON11",
+    "origin_country": "United States",
+    "velocity": 151.27,
+    "altitude": 4069.08,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL379",
+    "origin_country": "United States",
+    "velocity": 195.81,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH883",
+    "origin_country": "Germany",
+    "velocity": 262.99,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH1769",
+    "origin_country": "Germany",
+    "velocity": 192.86,
+    "altitude": 10965.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "NOZ93E",
+    "origin_country": "Sweden",
+    "velocity": 199.79,
+    "altitude": 6614.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASH4069",
+    "origin_country": "United States",
+    "velocity": 177.03,
+    "altitude": 7505.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW4632",
+    "origin_country": "United States",
+    "velocity": 124.5,
+    "altitude": 2202.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASA485",
+    "origin_country": "United States",
+    "velocity": 213.17,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH690",
+    "origin_country": "Germany",
+    "velocity": 246.43,
+    "altitude": 10050.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "NKS633",
+    "origin_country": "United States",
+    "velocity": 128.13,
+    "altitude": 1135.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "DLH681",
+    "origin_country": "Germany",
+    "velocity": 187.68,
+    "altitude": 10988.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH463",
+    "origin_country": "Algeria",
+    "velocity": 232.6,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH484",
+    "origin_country": "Algeria",
+    "velocity": 249.4,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "NDL654",
+    "origin_country": "Canada",
+    "velocity": 81.23,
+    "altitude": 731.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "G8026138",
+    "origin_country": "United States",
+    "velocity": 63.37,
+    "altitude": 1127.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW6506",
+    "origin_country": "United States",
+    "velocity": 10.29,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "BAW746",
+    "origin_country": "United Kingdom",
+    "velocity": 221.19,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N992PM",
+    "origin_country": "United States",
+    "velocity": 43.09,
+    "altitude": 800.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "NOZ191",
+    "origin_country": "Sweden",
+    "velocity": 141.99,
+    "altitude": 2324.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ3534",
+    "origin_country": "Sweden",
+    "velocity": 229.61,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ3616",
+    "origin_country": "Sweden",
+    "velocity": 80.65,
+    "altitude": 754.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ3945",
+    "origin_country": "Sweden",
+    "velocity": 252.57,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "AXE6809",
+    "origin_country": "Slovakia",
+    "velocity": 234.96,
+    "altitude": 8831.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "N550LM",
+    "origin_country": "United States",
+    "velocity": 117.3,
+    "altitude": 3276.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N174JS",
+    "origin_country": "United States",
+    "velocity": 234.95,
+    "altitude": 8961.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "QXE2134",
+    "origin_country": "United States",
+    "velocity": 182.09,
+    "altitude": 4191.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N550LV",
+    "origin_country": "United States",
+    "velocity": 109.14,
+    "altitude": 2118.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ3693",
+    "origin_country": "Sweden",
+    "velocity": 226.98,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "NOZ82Y",
+    "origin_country": "Sweden",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EZY6570",
+    "origin_country": "United Kingdom",
+    "velocity": 156.87,
+    "altitude": 1920.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1596",
+    "origin_country": "United States",
+    "velocity": 194.63,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AKJ724Z",
+    "origin_country": "India",
+    "velocity": 244.69,
+    "altitude": 9669.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "GJS4491",
+    "origin_country": "United States",
+    "velocity": 227.34,
+    "altitude": 7322.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "IGO1641",
+    "origin_country": "India",
+    "velocity": 252.4,
+    "altitude": 10675.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH1119",
+    "origin_country": "Algeria",
+    "velocity": 226.52,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N70275",
+    "origin_country": "United States",
+    "velocity": 48.63,
+    "altitude": 1280.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N999RW",
+    "origin_country": "United States",
+    "velocity": 155.05,
+    "altitude": 7574.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH1024",
+    "origin_country": "Algeria",
+    "velocity": 104.46,
+    "altitude": 1188.72,
+    "on_ground": false
+  },
+  {
+    "callsign": "N385L",
+    "origin_country": "United States",
+    "velocity": 87.67,
+    "altitude": 2720.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "N838SP",
+    "origin_country": "United States",
+    "velocity": 37.4,
+    "altitude": 2103.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "N550AA",
+    "origin_country": "United States",
+    "velocity": 276.89,
+    "altitude": 14325.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS974",
+    "origin_country": "Sweden",
+    "velocity": 216.47,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH1545",
+    "origin_country": "Algeria",
+    "velocity": 231.19,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2694",
+    "origin_country": "United States",
+    "velocity": 5.66,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "PDT6067",
+    "origin_country": "United States",
+    "velocity": 5.4,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "SWA1443",
+    "origin_country": "United States",
+    "velocity": 245.02,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC1706",
+    "origin_country": "India",
+    "velocity": 146.62,
+    "altitude": 2583.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "AIC2895",
+    "origin_country": "India",
+    "velocity": 255.92,
+    "altitude": 10660.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "N58CG",
+    "origin_country": "United States",
+    "velocity": 174.4,
+    "altitude": 11582.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA136",
+    "origin_country": "United States",
+    "velocity": 264.22,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SVA220",
+    "origin_country": "Saudi Arabia",
+    "velocity": 278.44,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N8052T",
+    "origin_country": "United States",
+    "velocity": 43.95,
+    "altitude": 1005.84,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2403",
+    "origin_country": "United States",
+    "velocity": 174.21,
+    "altitude": 8138.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "GBOTG",
+    "origin_country": "United Kingdom",
+    "velocity": 37.45,
+    "altitude": 518.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS1716",
+    "origin_country": "Sweden",
+    "velocity": 224.76,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7098P",
+    "origin_country": "United States",
+    "velocity": 39.11,
+    "altitude": 487.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS71T",
+    "origin_country": "Sweden",
+    "velocity": 250.17,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW3810",
+    "origin_country": "United States",
+    "velocity": 251.51,
+    "altitude": 9441.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "SVA1740",
+    "origin_country": "Saudi Arabia",
+    "velocity": 228.94,
+    "altitude": 5791.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N204NG",
+    "origin_country": "United States",
+    "velocity": 72.24,
+    "altitude": 876.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "N43BE",
+    "origin_country": "United States",
+    "velocity": 132.42,
+    "altitude": 10957.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS4615",
+    "origin_country": "Sweden",
+    "velocity": 176.63,
+    "altitude": 10584.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS63J",
+    "origin_country": "Sweden",
+    "velocity": 72.74,
+    "altitude": 83.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "N683SP",
+    "origin_country": "United States",
+    "velocity": 41.29,
+    "altitude": 1981.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL103",
+    "origin_country": "United States",
+    "velocity": 5.66,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "ASA1364",
+    "origin_country": "United States",
+    "velocity": 218.29,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS1921",
+    "origin_country": "Sweden",
+    "velocity": 205.69,
+    "altitude": 6050.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2666U",
+    "origin_country": "United States",
+    "velocity": 43.42,
+    "altitude": 1432.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "ASA364",
+    "origin_country": "United States",
+    "velocity": 206.64,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS2872",
+    "origin_country": "Sweden",
+    "velocity": 189.79,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "AVL314",
+    "origin_country": "United States",
+    "velocity": 44.76,
+    "altitude": 1173.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "BLZR285",
+    "origin_country": "United States",
+    "velocity": 151.33,
+    "altitude": 2964.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "LTHL284",
+    "origin_country": "United States",
+    "velocity": 152.02,
+    "altitude": 3169.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "ACA104",
+    "origin_country": "Canada",
+    "velocity": 309.61,
+    "altitude": 9852.66,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL3060",
+    "origin_country": "United States",
+    "velocity": 207.02,
+    "altitude": 4030.98,
+    "on_ground": false
+  },
+  {
+    "callsign": "SAS43T",
+    "origin_country": "Sweden",
+    "velocity": 1.29,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "SAS221",
+    "origin_country": "Sweden",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "NKS1069",
+    "origin_country": "United States",
+    "velocity": 13.38,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "FFT3312",
+    "origin_country": "United States",
+    "velocity": 284.98,
+    "altitude": 8846.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAM3732",
+    "origin_country": "Brazil",
+    "velocity": 229.98,
+    "altitude": 11879.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "TAM3487",
+    "origin_country": "Brazil",
+    "velocity": 3.86,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DAH3017",
+    "origin_country": "Tunisia",
+    "velocity": 218.95,
+    "altitude": 8724.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "N161EA",
+    "origin_country": "United States",
+    "velocity": 36.01,
+    "altitude": 510.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA220",
+    "origin_country": "United States",
+    "velocity": 242.13,
+    "altitude": 11536.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH1287",
+    "origin_country": "Algeria",
+    "velocity": 223.12,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "LBT599",
+    "origin_country": "Tunisia",
+    "velocity": 242.89,
+    "altitude": 10660.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "AMX172",
+    "origin_country": "United States",
+    "velocity": 202.66,
+    "altitude": 7962.9,
+    "on_ground": false
+  },
+  {
+    "callsign": "N525LX",
+    "origin_country": "United States",
+    "velocity": 125.62,
+    "altitude": 845.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA4856",
+    "origin_country": "United States",
+    "velocity": 199.59,
+    "altitude": 10340.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ5423",
+    "origin_country": "Sweden",
+    "velocity": 150.17,
+    "altitude": 5471.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJA683",
+    "origin_country": "United States",
+    "velocity": 153.49,
+    "altitude": 6233.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7042Y",
+    "origin_country": "United States",
+    "velocity": 66.05,
+    "altitude": 1935.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ482",
+    "origin_country": "Hungary",
+    "velocity": 2.83,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "N280BG",
+    "origin_country": "United States",
+    "velocity": 58.2,
+    "altitude": 944.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "N680FS",
+    "origin_country": "United States",
+    "velocity": 182.17,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N527LP",
+    "origin_country": "United States",
+    "velocity": 50.95,
+    "altitude": 731.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "WZZ3032",
+    "origin_country": "Hungary",
+    "velocity": 243.52,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW3896",
+    "origin_country": "United States",
+    "velocity": 182.56,
+    "altitude": 4632.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "LBT185",
+    "origin_country": "Tunisia",
+    "velocity": 230.03,
+    "altitude": 8229.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT4XW",
+    "origin_country": "Hungary",
+    "velocity": 163.44,
+    "altitude": 6446.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "SCOOTER2",
+    "origin_country": "United States",
+    "velocity": 196.91,
+    "altitude": 6012.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH1072",
+    "origin_country": "Algeria",
+    "velocity": 241.49,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "WMT8730",
+    "origin_country": "Hungary",
+    "velocity": 189.46,
+    "altitude": 9418.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2127",
+    "origin_country": "United States",
+    "velocity": 251.64,
+    "altitude": 10058.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL797",
+    "origin_country": "United States",
+    "velocity": 240.0,
+    "altitude": 10020.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "N1543G",
+    "origin_country": "United States",
+    "velocity": 73.21,
+    "altitude": 121.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ8TQ",
+    "origin_country": "Sweden",
+    "velocity": 223.01,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ4458",
+    "origin_country": "Sweden",
+    "velocity": 227.46,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "FDX3619",
+    "origin_country": "United States",
+    "velocity": 64.04,
+    "altitude": 548.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "N6NJ",
+    "origin_country": "United States",
+    "velocity": 38.43,
+    "altitude": 335.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "N73PP",
+    "origin_country": "United States",
+    "velocity": 47.34,
+    "altitude": 1310.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1616",
+    "origin_country": "United States",
+    "velocity": 185.72,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW5525",
+    "origin_country": "United States",
+    "velocity": 206.18,
+    "altitude": 5318.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "N70JV",
+    "origin_country": "United States",
+    "velocity": 7.72,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "UAL41",
+    "origin_country": "United States",
+    "velocity": 224.84,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH300",
+    "origin_country": "Algeria",
+    "velocity": 260.68,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "JJ37",
+    "origin_country": "United States",
+    "velocity": 59.38,
+    "altitude": 350.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "NSZ5259",
+    "origin_country": "Sweden",
+    "velocity": 211.58,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "N26TF",
+    "origin_country": "United States",
+    "velocity": 54.35,
+    "altitude": 1257.3,
+    "on_ground": false
+  },
+  {
+    "callsign": "LFA542",
+    "origin_country": "United States",
+    "velocity": 45.72,
+    "altitude": 868.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "N910SC",
+    "origin_country": "United States",
+    "velocity": 66.21,
+    "altitude": 182.88,
+    "on_ground": false
+  },
+  {
+    "callsign": "N362TW",
+    "origin_country": "United States",
+    "velocity": 217.34,
+    "altitude": 11879.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "MXA1732",
+    "origin_country": "Mexico",
+    "velocity": 262.98,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "WOLF13",
+    "origin_country": "United States",
+    "velocity": 235.21,
+    "altitude": 8572.5,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL839",
+    "origin_country": "United States",
+    "velocity": 92.09,
+    "altitude": 762.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1534",
+    "origin_country": "United States",
+    "velocity": 182.38,
+    "altitude": 9144.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1383",
+    "origin_country": "United States",
+    "velocity": 207.08,
+    "altitude": 4922.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "GJE1021",
+    "origin_country": "United States",
+    "velocity": 222.48,
+    "altitude": 12481.56,
+    "on_ground": false
+  },
+  {
+    "callsign": "SFY118",
+    "origin_country": "United States",
+    "velocity": 48.05,
+    "altitude": 822.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "N9057V",
+    "origin_country": "United States",
+    "velocity": 55.36,
+    "altitude": 2621.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL1681",
+    "origin_country": "United States",
+    "velocity": 196.25,
+    "altitude": 4404.36,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1094",
+    "origin_country": "United States",
+    "velocity": 211.09,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "UPS2945",
+    "origin_country": "United States",
+    "velocity": 281.93,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1098",
+    "origin_country": "United States",
+    "velocity": 266.78,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "VXP324",
+    "origin_country": "United States",
+    "velocity": 232.8,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "VJA578",
+    "origin_country": "United States",
+    "velocity": 109.58,
+    "altitude": 990.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA982",
+    "origin_country": "United States",
+    "velocity": 195.77,
+    "altitude": 4160.52,
+    "on_ground": false
+  },
+  {
+    "callsign": "N76091",
+    "origin_country": "United States",
+    "velocity": 50.78,
+    "altitude": 502.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "N43RD",
+    "origin_country": "United States",
+    "velocity": 81.28,
+    "altitude": 3284.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "BRQ1500",
+    "origin_country": "Libyan Arab Jamahiriya",
+    "velocity": 149.89,
+    "altitude": 2133.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "PBR650",
+    "origin_country": "Canada",
+    "velocity": 130.25,
+    "altitude": 7010.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAY2932",
+    "origin_country": "United States",
+    "velocity": 108.55,
+    "altitude": 769.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "EJM827",
+    "origin_country": "United States",
+    "velocity": 127.39,
+    "altitude": 1577.34,
+    "on_ground": false
+  },
+  {
+    "callsign": "N42WK",
+    "origin_country": "United States",
+    "velocity": 72.43,
+    "altitude": 1798.32,
+    "on_ground": false
+  },
+  {
+    "callsign": "N58SG",
+    "origin_country": "United States",
+    "velocity": 195.71,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "VJA505",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "EDG904",
+    "origin_country": "United States",
+    "velocity": 240.37,
+    "altitude": 11833.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "ENY4202",
+    "origin_country": "United States",
+    "velocity": 210.51,
+    "altitude": 4343.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N972AC",
+    "origin_country": "United States",
+    "velocity": 55.8,
+    "altitude": 144.78,
+    "on_ground": false
+  },
+  {
+    "callsign": "N720AG",
+    "origin_country": "United States",
+    "velocity": 34.82,
+    "altitude": 106.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "N4520L",
+    "origin_country": "United States",
+    "velocity": 65.75,
+    "altitude": 1897.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "SKW3695",
+    "origin_country": "United States",
+    "velocity": 246.01,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N507QS",
+    "origin_country": "United States",
+    "velocity": 216.11,
+    "altitude": 13106.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "CKK206",
+    "origin_country": "China",
+    "velocity": 5.66,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "DAL1143",
+    "origin_country": "United States",
+    "velocity": 257.87,
+    "altitude": 11285.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL2982",
+    "origin_country": "United States",
+    "velocity": 153.05,
+    "altitude": 3680.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL57",
+    "origin_country": "United States",
+    "velocity": 238.22,
+    "altitude": 10972.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "JIA5525",
+    "origin_country": "United States",
+    "velocity": 0.0,
+    "altitude": 167.64,
+    "on_ground": true
+  },
+  {
+    "callsign": "N88CR",
+    "origin_country": "United States",
+    "velocity": 65.8,
+    "altitude": 198.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "RPA5626",
+    "origin_country": "United States",
+    "velocity": 206.58,
+    "altitude": 7010.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "ENY3707",
+    "origin_country": "United States",
+    "velocity": 174.65,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "WJA2378",
+    "origin_country": "Canada",
+    "velocity": 289.79,
+    "altitude": 10660.38,
+    "on_ground": false
+  },
+  {
+    "callsign": "CGBUX",
+    "origin_country": "Canada",
+    "velocity": 76.29,
+    "altitude": 914.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "N2819D",
+    "origin_country": "United States",
+    "velocity": 55.08,
+    "altitude": 746.76,
+    "on_ground": false
+  },
+  {
+    "callsign": "AKJ146K",
+    "origin_country": "India",
+    "velocity": 116.79,
+    "altitude": 2301.24,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL444",
+    "origin_country": "United States",
+    "velocity": 146.97,
+    "altitude": 7627.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N505WR",
+    "origin_country": "United States",
+    "velocity": 35.92,
+    "altitude": 198.12,
+    "on_ground": false
+  },
+  {
+    "callsign": "N904DR",
+    "origin_country": "United States",
+    "velocity": 45.92,
+    "altitude": 1653.54,
+    "on_ground": false
+  },
+  {
+    "callsign": "N573SA",
+    "origin_country": "United States",
+    "velocity": 92.52,
+    "altitude": 1181.1,
+    "on_ground": false
+  },
+  {
+    "callsign": "ROT384J",
+    "origin_country": "Romania",
+    "velocity": 218.25,
+    "altitude": 7886.7,
+    "on_ground": false
+  },
+  {
+    "callsign": "THA5260",
+    "origin_country": "Thailand",
+    "velocity": 72.8,
+    "altitude": 464.82,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA2782",
+    "origin_country": "United States",
+    "velocity": 100.77,
+    "altitude": 2072.64,
+    "on_ground": false
+  },
+  {
+    "callsign": "CQH8597",
+    "origin_country": "China",
+    "velocity": 221.2,
+    "altitude": 11003.28,
+    "on_ground": false
+  },
+  {
+    "callsign": "N999LV",
+    "origin_country": "United States",
+    "velocity": 204.84,
+    "altitude": 12192.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "GOAT39",
+    "origin_country": "United States",
+    "velocity": 111.92,
+    "altitude": 883.92,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW680",
+    "origin_country": "United Kingdom",
+    "velocity": 233.94,
+    "altitude": 9250.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "BLADE5",
+    "origin_country": "United States",
+    "velocity": 29.33,
+    "altitude": 1348.74,
+    "on_ground": false
+  },
+  {
+    "callsign": "N999LA",
+    "origin_country": "United States",
+    "velocity": 64.34,
+    "altitude": 1211.58,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW425",
+    "origin_country": "United Kingdom",
+    "velocity": 237.54,
+    "altitude": 10347.96,
+    "on_ground": false
+  },
+  {
+    "callsign": "NJE215A",
+    "origin_country": "Portugal",
+    "velocity": 222.13,
+    "altitude": 8229.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "NJE405P",
+    "origin_country": "Portugal",
+    "velocity": 177.73,
+    "altitude": 3368.04,
+    "on_ground": false
+  },
+  {
+    "callsign": "N886TW",
+    "origin_country": "United States",
+    "velocity": 1.54,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "SIA7429",
+    "origin_country": "Singapore",
+    "velocity": 208.72,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "VQBIJ",
+    "origin_country": "United Kingdom",
+    "velocity": 89.78,
+    "altitude": 861.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW722",
+    "origin_country": "United Kingdom",
+    "velocity": 142.64,
+    "altitude": 2423.16,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA5046",
+    "origin_country": "United States",
+    "velocity": 256.13,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "THA309",
+    "origin_country": "Thailand",
+    "velocity": 203.03,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "N7834Y",
+    "origin_country": "United States",
+    "velocity": 97.07,
+    "altitude": 3459.48,
+    "on_ground": false
+  },
+  {
+    "callsign": "UAL925",
+    "origin_country": "United States",
+    "velocity": 234.77,
+    "altitude": 10363.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1015",
+    "origin_country": "United States",
+    "velocity": 195.57,
+    "altitude": 8534.4,
+    "on_ground": false
+  },
+  {
+    "callsign": "EXS3WY",
+    "origin_country": "United Kingdom",
+    "velocity": 81.96,
+    "altitude": 1059.18,
+    "on_ground": false
+  },
+  {
+    "callsign": "THA313",
+    "origin_country": "Thailand",
+    "velocity": 236.13,
+    "altitude": 8107.68,
+    "on_ground": false
+  },
+  {
+    "callsign": "THA351",
+    "origin_country": "Thailand",
+    "velocity": 223.23,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "TXLU02",
+    "origin_country": "Czech Republic",
+    "velocity": 21.09,
+    "altitude": 0.0,
+    "on_ground": true
+  },
+  {
+    "callsign": "UPS2905",
+    "origin_country": "United States",
+    "velocity": 254.83,
+    "altitude": 10675.62,
+    "on_ground": false
+  },
+  {
+    "callsign": "N6223V",
+    "origin_country": "United States",
+    "velocity": 66.88,
+    "altitude": 617.22,
+    "on_ground": false
+  },
+  {
+    "callsign": "N5847U",
+    "origin_country": "United States",
+    "velocity": 63.17,
+    "altitude": 1546.86,
+    "on_ground": false
+  },
+  {
+    "callsign": "BAW510",
+    "origin_country": "United Kingdom",
+    "velocity": 221.73,
+    "altitude": 11277.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "N80866",
+    "origin_country": "United States",
+    "velocity": 38.41,
+    "altitude": 3139.44,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAH1008",
+    "origin_country": "Algeria",
+    "velocity": 207.37,
+    "altitude": 5966.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "BYD091",
+    "origin_country": "Maldives",
+    "velocity": 245.29,
+    "altitude": 11887.2,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL3096",
+    "origin_country": "United States",
+    "velocity": 192.9,
+    "altitude": 3528.06,
+    "on_ground": false
+  },
+  {
+    "callsign": "N88ER",
+    "origin_country": "United States",
+    "velocity": 197.76,
+    "altitude": 7018.02,
+    "on_ground": false
+  },
+  {
+    "callsign": "AAL1099",
+    "origin_country": "United States",
+    "velocity": 265.33,
+    "altitude": 9448.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "NJE561N",
+    "origin_country": "Portugal",
+    "velocity": 233.17,
+    "altitude": 12496.8,
+    "on_ground": false
+  },
+  {
+    "callsign": "N886UP",
+    "origin_country": "United States",
+    "velocity": 128.49,
+    "altitude": 9753.6,
+    "on_ground": false
+  },
+  {
+    "callsign": "DAL1281",
+    "origin_country": "United States",
+    "velocity": 211.03,
+    "altitude": 10668.0,
+    "on_ground": false
+  },
+  {
+    "callsign": "NJE174N",
+    "origin_country": "Portugal",
+    "velocity": 128.42,
+    "altitude": 1775.46,
+    "on_ground": false
+  },
+  {
+    "callsign": "NJE6KY",
+    "origin_country": "Portugal",
+    "velocity": 65.49,
+    "altitude": 175.26,
+    "on_ground": false
+  },
+  {
+    "callsign": "SWA1031",
+    "origin_country": "United States",
+    "velocity": 169.55,
+    "altitude": 7551.42,
+    "on_ground": false
+  },
+  {
+    "callsign": "VOI3480",
+    "origin_country": "Mexico"
